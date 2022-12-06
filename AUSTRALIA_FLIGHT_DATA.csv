@@ -1,0 +1,1044 @@
+﻿Source,Source City,Source Country,Target,Target City,Target Country,Weight
+CNS,Cairns,Australia,OOL,Gold Coast,Australia,10569
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,1084
+OOL,Gold Coast,Australia,CNS,Cairns,Australia,8401
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,1084
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,1897
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,1897
+NTL,Newcastle (AU),Australia,SYD,Sydney (AU),Australia,2641
+SYD,Sydney (AU),Australia,NTL,Newcastle (AU),Australia,2299
+SYD,Sydney (AU),Australia,TRO,Taree,Australia,1691
+TRO,Taree,Australia,SYD,Sydney (AU),Australia,1330
+OOM,Cooma,Australia,SYD,Sydney (AU),Australia,2470
+SYD,Sydney (AU),Australia,OOM,Cooma,Australia,2318
+NTL,Newcastle (AU),Australia,OOM,Cooma,Australia,76
+OOM,Cooma,Australia,NTL,Newcastle (AU),Australia,76
+TRO,Taree,Australia,NTL,Newcastle (AU),Australia,361
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,2760
+CNJ,Cloncurry,Australia,ISA,Mount Isa,Australia,95
+CNJ,Cloncurry,Australia,TSV,Townsville,Australia,952
+ISA,Mount Isa,Australia,CNJ,Cloncurry,Australia,190
+TSV,Townsville,Australia,CNJ,Cloncurry,Australia,476
+BNE,Brisbane,Australia,TSV,Townsville,Australia,170
+BVI,Birdsville,Australia,WNR,Windorah,Australia,171
+CNS,Cairns,Australia,LZR,Lizard Island,Australia,1116
+LZR,Lizard Island,Australia,CNS,Cairns,Australia,1116
+CNS,Cairns,Australia,KWM,Kowanyama,Australia,190
+HGD,Hughenden,Australia,RCM,Richmond (AU),Australia,247
+KWM,Kowanyama,Australia,CNS,Cairns,Australia,247
+RCM,Richmond (AU),Australia,HGD,Hughenden,Australia,247
+ULP,Quilpie,Australia,WNR,Windorah,Australia,171
+WNR,Windorah,Australia,ULP,Quilpie,Australia,171
+WNR,Windorah,Australia,BVI,Birdsville,Australia,171
+BUC,Burketown,Australia,DMD,Doomadgee Mission,Australia,171
+DMD,Doomadgee Mission,Australia,BUC,Burketown,Australia,190
+BUC,Burketown,Australia,ONG,Mornington Island,Australia,190
+CNS,Cairns,Australia,TSV,Townsville,Australia,171
+ONG,Mornington Island,Australia,BUC,Burketown,Australia,171
+TSV,Townsville,Australia,CNS,Cairns,Australia,95
+BNE,Brisbane,Australia,CTL,Charleville,Australia,171
+CTL,Charleville,Australia,BNE,Brisbane,Australia,171
+BMP,Brampton Island,Australia,MKY,Mackay,Australia,372
+CNJ,Cloncurry,Australia,ISA,Mount Isa,Australia,272
+ISA,Mount Isa,Australia,CNJ,Cloncurry,Australia,952
+LRE,Longreach,Australia,WIN,Winton,Australia,190
+MKY,Mackay,Australia,BMP,Brampton Island,Australia,372
+OKY,Oakey,Australia,SGO,St George (AU),Australia,171
+SGO,St George (AU),Australia,OKY,Oakey,Australia,171
+TSV,Townsville,Australia,WIN,Winton,Australia,190
+WIN,Winton,Australia,LRE,Longreach,Australia,190
+WIN,Winton,Australia,TSV,Townsville,Australia,190
+CMA,Cunnamulla,Australia,XTG,Thargomindah,Australia,171
+CNS,Cairns,Australia,NTN,Normanton,Australia,342
+DMD,Doomadgee Mission,Australia,ONG,Mornington Island,Australia,228
+ISA,Mount Isa,Australia,JCK,Julia Creek,Australia,152
+ISA,Mount Isa,Australia,TSV,Townsville,Australia,646
+JCK,Julia Creek,Australia,ISA,Mount Isa,Australia,152
+NTN,Normanton,Australia,CNS,Cairns,Australia,418
+ONG,Mornington Island,Australia,DMD,Doomadgee Mission,Australia,171
+TSV,Townsville,Australia,ISA,Mount Isa,Australia,1360
+XTG,Thargomindah,Australia,CMA,Cunnamulla,Australia,171
+CNJ,Cloncurry,Australia,TSV,Townsville,Australia,190
+TSV,Townsville,Australia,CNJ,Cloncurry,Australia,95
+NTN,Normanton,Australia,ONG,Mornington Island,Australia,342
+ONG,Mornington Island,Australia,NTN,Normanton,Australia,418
+CMA,Cunnamulla,Australia,SGO,St George (AU),Australia,171
+HGD,Hughenden,Australia,TSV,Townsville,Australia,247
+SGO,St George (AU),Australia,CMA,Cunnamulla,Australia,171
+TSV,Townsville,Australia,HGD,Hughenden,Australia,247
+BEU,Bedourie,Australia,BQL,Boulia,Australia,171
+BNE,Brisbane,Australia,OKY,Oakey,Australia,171
+BQL,Boulia,Australia,BEU,Bedourie,Australia,171
+OKY,Oakey,Australia,BNE,Brisbane,Australia,171
+CNS,Cairns,Australia,DKI,Dunk Island,Australia,1494
+BQL,Boulia,Australia,ISA,Mount Isa,Australia,171
+ISA,Mount Isa,Australia,BQL,Boulia,Australia,171
+DKI,Dunk Island,Australia,CNS,Cairns,Australia,1494
+DMD,Doomadgee Mission,Australia,ISA,Mount Isa,Australia,342
+ISA,Mount Isa,Australia,DMD,Doomadgee Mission,Australia,418
+JCK,Julia Creek,Australia,RCM,Richmond (AU),Australia,247
+RCM,Richmond (AU),Australia,JCK,Julia Creek,Australia,247
+BNE,Brisbane,Australia,CNJ,Cloncurry,Australia,136
+CNJ,Cloncurry,Australia,BNE,Brisbane,Australia,340
+BEU,Bedourie,Australia,BVI,Birdsville,Australia,171
+BVI,Birdsville,Australia,BEU,Bedourie,Australia,171
+CTL,Charleville,Australia,ULP,Quilpie,Australia,171
+EDR,Edward River,Australia,KWM,Kowanyama,Australia,247
+ISA,Mount Isa,Australia,TSV,Townsville,Australia,285
+KWM,Kowanyama,Australia,EDR,Edward River,Australia,190
+TSV,Townsville,Australia,ISA,Mount Isa,Australia,399
+ULP,Quilpie,Australia,CTL,Charleville,Australia,171
+CNJ,Cloncurry,Australia,JCK,Julia Creek,Australia,95
+CNS,Cairns,Australia,EDR,Edward River,Australia,247
+EDR,Edward River,Australia,CNS,Cairns,Australia,190
+JCK,Julia Creek,Australia,CNJ,Cloncurry,Australia,95
+HVB,Hervey Bay,Australia,MBH,Maryborough,Australia,2016
+MBH,Maryborough,Australia,HVB,Hervey Bay,Australia,1944
+BNE,Brisbane,Australia,MCY,Sunshine Coast,Australia,1311
+MCY,Sunshine Coast,Australia,BNE,Brisbane,Australia,1311
+BNE,Brisbane,Australia,THG,Thangool,Australia,950
+THG,Thangool,Australia,BNE,Brisbane,Australia,950
+BNE,Brisbane,Australia,HVB,Hervey Bay,Australia,612
+BNE,Brisbane,Australia,MCY,Sunshine Coast,Australia,648
+HVB,Hervey Bay,Australia,BNE,Brisbane,Australia,972
+MCY,Sunshine Coast,Australia,BNE,Brisbane,Australia,216
+BNE,Brisbane,Australia,HVB,Hervey Bay,Australia,76
+HVB,Hervey Bay,Australia,BNE,Brisbane,Australia,76
+BNE,Brisbane,Australia,MBH,Maryborough,Australia,1944
+MBH,Maryborough,Australia,BNE,Brisbane,Australia,2016
+HVB,Hervey Bay,Australia,MCY,Sunshine Coast,Australia,72
+MCY,Sunshine Coast,Australia,HVB,Hervey Bay,Australia,504
+TMW,Tamworth,Australia,ARM,Armidale,Australia,342
+BNE,Brisbane,Australia,TMW,Tamworth,Australia,342
+ARM,Armidale,Australia,BNE,Brisbane,Australia,342
+BNE,Brisbane,Australia,CNS,Cairns,Australia,5652
+CNS,Cairns,Australia,BNE,Brisbane,Australia,5652
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,4824
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,7600
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,8928
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,8928
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,62928
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,62784
+BNE,Brisbane,Australia,TSV,Townsville,Australia,8928
+ADL,Adelaide,Australia,OOL,Gold Coast,Australia,4464
+TSV,Townsville,Australia,BNE,Brisbane,Australia,8928
+OOL,Gold Coast,Australia,ADL,Adelaide,Australia,4464
+ADL,Adelaide,Australia,SYD,Sydney (AU),Australia,17856
+BNE,Brisbane,Australia,DRW,Darwin,Australia,4464
+SYD,Sydney (AU),Australia,ADL,Adelaide,Australia,17856
+DRW,Darwin,Australia,BNE,Brisbane,Australia,4464
+MEL,Melbourne (AU),Australia,OOL,Gold Coast,Australia,15408
+OOL,Gold Coast,Australia,MEL,Melbourne (AU),Australia,15408
+PPP,Proserpine,Australia,SYD,Sydney (AU),Australia,576
+SYD,Sydney (AU),Australia,PPP,Proserpine,Australia,576
+BNE,Brisbane,Australia,CBR,Canberra,Australia,4464
+CBR,Canberra,Australia,BNE,Brisbane,Australia,4464
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,3168
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,3024
+BNE,Brisbane,Australia,PER,Perth,Australia,4464
+CFS,Coffs Harbour,Australia,SYD,Sydney (AU),Australia,4464
+MCY,Sunshine Coast,Australia,MEL,Melbourne (AU),Australia,2448
+MEL,Melbourne (AU),Australia,MCY,Sunshine Coast,Australia,2448
+PER,Perth,Australia,BNE,Brisbane,Australia,4464
+PER,Perth,Australia,SYD,Sydney (AU),Australia,13392
+SYD,Sydney (AU),Australia,CFS,Coffs Harbour,Australia,4464
+SYD,Sydney (AU),Australia,PER,Perth,Australia,13392
+ADL,Adelaide,Australia,PER,Perth,Australia,4464
+HBA,Hobart,Australia,MEL,Melbourne (AU),Australia,13392
+MEL,Melbourne (AU),Australia,HBA,Hobart,Australia,13392
+PER,Perth,Australia,ADL,Adelaide,Australia,4464
+CNS,Cairns,Australia,MEL,Melbourne (AU),Australia,4464
+LST,Launceston,Australia,MEL,Melbourne (AU),Australia,8928
+MEL,Melbourne (AU),Australia,CNS,Cairns,Australia,4464
+MEL,Melbourne (AU),Australia,LST,Launceston,Australia,8928
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,13392
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,13392
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,17712
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,17712
+ADL,Adelaide,Australia,BME,Broome,Australia,576
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,25632
+BME,Broome,Australia,ADL,Adelaide,Australia,576
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,37872
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,8352
+MEL,Melbourne (AU),Australia,ADL,Adelaide,Australia,25632
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,37872
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,8352
+ADL,Adelaide,Australia,BNE,Brisbane,Australia,8928
+BNE,Brisbane,Australia,ADL,Adelaide,Australia,8928
+BNE,Brisbane,Australia,CNS,Cairns,Australia,13392
+CNS,Cairns,Australia,BNE,Brisbane,Australia,13392
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,4464
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,4464
+ASP,Alice Springs,Australia,SYD,Sydney (AU),Australia,4464
+SYD,Sydney (AU),Australia,ASP,Alice Springs,Australia,4464
+BNE,Brisbane,Australia,ROK,Rockhampton,Australia,4464
+MCY,Sunshine Coast,Australia,SYD,Sydney (AU),Australia,4464
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,79344
+ROK,Rockhampton,Australia,BNE,Brisbane,Australia,4464
+SYD,Sydney (AU),Australia,MCY,Sunshine Coast,Australia,4464
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,79488
+BNE,Brisbane,Australia,MKY,Mackay,Australia,8928
+MKY,Mackay,Australia,BNE,Brisbane,Australia,8928
+CNB,Coonamble,Australia,DBO,Dubbo,Australia,216
+DBO,Dubbo,Australia,CNB,Coonamble,Australia,216
+CNB,Coonamble,Australia,WGE,Walgett,Australia,216
+LHG,Lightning Ridge,Australia,WGE,Walgett,Australia,216
+WGE,Walgett,Australia,CNB,Coonamble,Australia,216
+WGE,Walgett,Australia,LHG,Lightning Ridge,Australia,216
+DGE,Mudgee,Australia,SYD,Sydney (AU),Australia,400
+SYD,Sydney (AU),Australia,DGE,Mudgee,Australia,400
+BRK,Bourke,Australia,CAZ,Cobar,Australia,224
+CAZ,Cobar,Australia,BRK,Bourke,Australia,216
+CAZ,Cobar,Australia,DBO,Dubbo,Australia,408
+DBO,Dubbo,Australia,CAZ,Cobar,Australia,400
+DBO,Dubbo,Australia,SYD,Sydney (AU),Australia,1463
+SYD,Sydney (AU),Australia,DBO,Dubbo,Australia,1463
+CBR,Canberra,Australia,WGA,Wagga Wagga,Australia,184
+WGA,Wagga Wagga,Australia,CBR,Canberra,Australia,184
+CBR,Canberra,Australia,NTL,Newcastle (AU),Australia,400
+NTL,Newcastle (AU),Australia,CBR,Canberra,Australia,400
+ABX,Albury,Australia,CBR,Canberra,Australia,368
+CBR,Canberra,Australia,ABX,Albury,Australia,368
+GOV,Gove,Australia,RAM,Ramingining,Australia,40
+RAM,Ramingining,Australia,GOV,Gove,Australia,72
+NUB,Numbulwar,Australia,GOV,Gove,Australia,104
+GOV,Gove,Australia,LEL,Lake Evella,Australia,144
+LEL,Lake Evella,Australia,GOV,Gove,Australia,136
+GTE,Groote Eylandt,Australia,NUB,Numbulwar,Australia,184
+NUB,Numbulwar,Australia,GTE,Groote Eylandt,Australia,80
+ELC,Elcho Island,Australia,MGT,Milingimbi Island,Australia,248
+MGT,Milingimbi Island,Australia,ELC,Elcho Island,Australia,360
+MGT,Milingimbi Island,Australia,RAM,Ramingining,Australia,104
+RAM,Ramingining,Australia,MGT,Milingimbi Island,Australia,352
+MNG,Maningrida,Australia,RAM,Ramingining,Australia,216
+RAM,Ramingining,Australia,MNG,Maningrida,Australia,40
+ELC,Elcho Island,Australia,MNG,Maningrida,Australia,144
+MNG,Maningrida,Australia,ELC,Elcho Island,Australia,104
+ELC,Elcho Island,Australia,GOV,Gove,Australia,184
+ELC,Elcho Island,Australia,RAM,Ramingining,Australia,144
+GOV,Gove,Australia,ELC,Elcho Island,Australia,208
+GOV,Gove,Australia,GTE,Groote Eylandt,Australia,184
+GTE,Groote Eylandt,Australia,GOV,Gove,Australia,80
+RAM,Ramingining,Australia,ELC,Elcho Island,Australia,40
+MGT,Milingimbi Island,Australia,MNG,Maningrida,Australia,392
+MNG,Maningrida,Australia,MGT,Milingimbi Island,Australia,256
+ELC,Elcho Island,Australia,LEL,Lake Evella,Australia,136
+LEL,Lake Evella,Australia,ELC,Elcho Island,Australia,144
+BME,Broome,Australia,PHE,Port Hedland,Australia,117
+FIZ,Fitzroy Crossing,Australia,HCQ,Halls Creek,Australia,243
+HCQ,Halls Creek,Australia,FIZ,Fitzroy Crossing,Australia,198
+PHE,Port Hedland,Australia,BME,Broome,Australia,117
+BME,Broome,Australia,FIZ,Fitzroy Crossing,Australia,243
+FIZ,Fitzroy Crossing,Australia,BME,Broome,Australia,198
+HCQ,Halls Creek,Australia,BME,Broome,Australia,36
+KTA,Karratha,Australia,PHE,Port Hedland,Australia,117
+PHE,Port Hedland,Australia,KTA,Karratha,Australia,117
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,3809
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,2344
+BDD,Badu Island,Australia,KUG,Kubin Island,Australia,135
+CNC,Coconut Island,Australia,ABM,Bamaga,Australia,115
+CNC,Coconut Island,Australia,OKR,Yorke Island,Australia,243
+KUG,Kubin Island,Australia,BDD,Badu Island,Australia,135
+MYI,Murray Island,Australia,NLF,Darnley Island,Australia,243
+OKR,Yorke Island,Australia,CNC,Coconut Island,Australia,36
+ABM,Bamaga,Australia,UBB,Mabuiag Island,Australia,36
+CNC,Coconut Island,Australia,OKR,Yorke Island,Australia,115
+HID,Horn Island,Australia,TIS,Thursday Island,Australia,115
+OKR,Yorke Island,Australia,CNC,Coconut Island,Australia,115
+ABM,Bamaga,Australia,CNS,Cairns,Australia,665
+ABM,Bamaga,Australia,HID,Horn Island,Australia,135
+CNC,Coconut Island,Australia,XMY,Yam Island,Australia,207
+CNS,Cairns,Australia,ABM,Bamaga,Australia,665
+HID,Horn Island,Australia,ABM,Bamaga,Australia,135
+XMY,Yam Island,Australia,CNC,Coconut Island,Australia,243
+BDD,Badu Island,Australia,UBB,Mabuiag Island,Australia,243
+UBB,Mabuiag Island,Australia,BDD,Badu Island,Australia,243
+XMY,Yam Island,Australia,ABM,Bamaga,Australia,20
+GIC,Boigu Island,Australia,UBB,Mabuiag Island,Australia,36
+ABM,Bamaga,Australia,SBR,Saibai Island,Australia,207
+KUG,Kubin Island,Australia,ABM,Bamaga,Australia,243
+ABM,Bamaga,Australia,SYU,Warraber Island,Australia,243
+SBR,Saibai Island,Australia,HID,Horn Island,Australia,230
+SYU,Warraber Island,Australia,ABM,Bamaga,Australia,243
+HID,Horn Island,Australia,KUG,Kubin Island,Australia,135
+HID,Horn Island,Australia,XMY,Yam Island,Australia,20
+KUG,Kubin Island,Australia,HID,Horn Island,Australia,135
+KUG,Kubin Island,Australia,UBB,Mabuiag Island,Australia,207
+UBB,Mabuiag Island,Australia,KUG,Kubin Island,Australia,207
+XMY,Yam Island,Australia,HID,Horn Island,Australia,20
+HID,Horn Island,Australia,GIC,Boigu Island,Australia,230
+OKR,Yorke Island,Australia,HID,Horn Island,Australia,243
+GIC,Boigu Island,Australia,SBR,Saibai Island,Australia,207
+HID,Horn Island,Australia,SYU,Warraber Island,Australia,693
+SBR,Saibai Island,Australia,GIC,Boigu Island,Australia,450
+SBR,Saibai Island,Australia,XMY,Yam Island,Australia,20
+SYU,Warraber Island,Australia,HID,Horn Island,Australia,693
+XMY,Yam Island,Australia,SBR,Saibai Island,Australia,20
+HID,Horn Island,Australia,MYI,Murray Island,Australia,243
+OKR,Yorke Island,Australia,XMY,Yam Island,Australia,450
+SBR,Saibai Island,Australia,UBB,Mabuiag Island,Australia,207
+UBB,Mabuiag Island,Australia,SBR,Saibai Island,Australia,243
+CNC,Coconut Island,Australia,HID,Horn Island,Australia,115
+HID,Horn Island,Australia,CNC,Coconut Island,Australia,115
+ABM,Bamaga,Australia,KUG,Kubin Island,Australia,135
+HID,Horn Island,Australia,UBB,Mabuiag Island,Australia,243
+SYU,Warraber Island,Australia,OKR,Yorke Island,Australia,36
+UBB,Mabuiag Island,Australia,HID,Horn Island,Australia,243
+SBR,Saibai Island,Australia,ABM,Bamaga,Australia,115
+ABM,Bamaga,Australia,MYI,Murray Island,Australia,243
+CNC,Coconut Island,Australia,SYU,Warraber Island,Australia,36
+GIC,Boigu Island,Australia,SBR,Saibai Island,Australia,230
+SYU,Warraber Island,Australia,CNC,Coconut Island,Australia,207
+SYU,Warraber Island,Australia,XMY,Yam Island,Australia,450
+XMY,Yam Island,Australia,SYU,Warraber Island,Australia,864
+BDD,Badu Island,Australia,KUG,Kubin Island,Australia,243
+HID,Horn Island,Australia,KUG,Kubin Island,Australia,450
+KUG,Kubin Island,Australia,BDD,Badu Island,Australia,243
+KUG,Kubin Island,Australia,HID,Horn Island,Australia,450
+NLF,Darnley Island,Australia,OKR,Yorke Island,Australia,243
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,12400
+MKR,Meekatharra,Australia,WUN,Wiluna,Australia,76
+WUN,Wiluna,Australia,MKR,Meekatharra,Australia,76
+BME,Broome,Australia,DRB,Derby,Australia,513
+DRB,Derby,Australia,BME,Broome,Australia,513
+MKR,Meekatharra,Australia,PER,Perth,Australia,76
+PER,Perth,Australia,MKR,Meekatharra,Australia,76
+PER,Perth,Australia,WUN,Wiluna,Australia,76
+WUN,Wiluna,Australia,PER,Perth,Australia,76
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,384
+MMG,Mount Magnet,Australia,PER,Perth,Australia,288
+PER,Perth,Australia,MMG,Mount Magnet,Australia,288
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,10008
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,1470
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,1470
+KAX,Kalbarri,Australia,PER,Perth,Australia,95
+PER,Perth,Australia,KAX,Kalbarri,Australia,95
+ADL,Adelaide,Australia,MOO,Moomba,Australia,2304
+MOO,Moomba,Australia,ADL,Adelaide,Australia,2048
+ADL,Adelaide,Australia,BNE,Brisbane,Australia,320
+BNE,Brisbane,Australia,ADL,Adelaide,Australia,640
+MOO,Moomba,Australia,BNE,Brisbane,Australia,256
+DRW,Darwin,Australia,MCV,Mcarthur River,Australia,1512
+MCV,Mcarthur River,Australia,DRW,Darwin,Australia,1512
+LEA,Learmonth,Australia,PER,Perth,Australia,64
+PER,Perth,Australia,LEA,Learmonth,Australia,640
+CNS,Cairns,Australia,CUQ,Coen,Australia,70
+CUQ,Coen,Australia,CNS,Cairns,Australia,20
+CUQ,Coen,Australia,IRG,Lockhart River,Australia,70
+IRG,Lockhart River,Australia,CUQ,Coen,Australia,20
+CNS,Cairns,Australia,CTN,Cooktown,Australia,290
+CNS,Cairns,Australia,OKR,Yorke Island,Australia,110
+CTN,Cooktown,Australia,CNS,Cairns,Australia,290
+OKR,Yorke Island,Australia,CNS,Cairns,Australia,110
+AUU,Aurukun Mission,Australia,CNS,Cairns,Australia,90
+CNS,Cairns,Australia,AUU,Aurukun Mission,Australia,90
+HID,Horn Island,Australia,OKR,Yorke Island,Australia,70
+OKR,Yorke Island,Australia,HID,Horn Island,Australia,70
+CNS,Cairns,Australia,IRG,Lockhart River,Australia,85
+CNS,Cairns,Australia,KRB,Karumba,Australia,135
+IRG,Lockhart River,Australia,CNS,Cairns,Australia,135
+KRB,Karumba,Australia,CNS,Cairns,Australia,135
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,700
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,700
+BEO,Newcastle (AU),Australia,SYD,Sydney (AU),Australia,3536
+SYD,Sydney (AU),Australia,BEO,Newcastle (AU),Australia,3536
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,3926
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,1840
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,1840
+ADL,Adelaide,Australia,OOL,Gold Coast,Australia,129
+BLT,Blackwater,Australia,EMD,Emerald,Australia,828
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,1145
+BNE,Brisbane,Australia,NTL,Newcastle (AU),Australia,1100
+ADL,Adelaide,Australia,DRW,Darwin,Australia,2977
+ADL,Adelaide,Australia,SYD,Sydney (AU),Australia,27360
+ARM,Armidale,Australia,TMW,Tamworth,Australia,50
+ASP,Alice Springs,Australia,MEL,Melbourne (AU),Australia,720
+ASP,Alice Springs,Australia,DRW,Darwin,Australia,1161
+ASP,Alice Springs,Australia,PER,Perth,Australia,1140
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,12126
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,6942
+CNS,Cairns,Australia,GOV,Gove,Australia,912
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,1145
+EMD,Emerald,Australia,BLT,Blackwater,Australia,144
+GOV,Gove,Australia,CNS,Cairns,Australia,912
+HTI,Hamilton Island,Australia,SYD,Sydney (AU),Australia,8307
+LDH,Lord Howe Island,Australia,SYD,Sydney (AU),Australia,756
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,1145
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,11520
+BME,Broome,Australia,PER,Perth,Australia,2650
+BNE,Brisbane,Australia,BKQ,Blackall,Australia,324
+BNE,Brisbane,Australia,CNS,Cairns,Australia,4680
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,2665
+CNS,Cairns,Australia,BNE,Brisbane,Australia,10260
+DRW,Darwin,Australia,ADL,Adelaide,Australia,2977
+KTA,Karratha,Australia,PER,Perth,Australia,348
+CNS,Cairns,Australia,GOV,Gove,Australia,704
+CNS,Cairns,Australia,HID,Horn Island,Australia,1800
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,14656
+CNS,Cairns,Australia,TSV,Townsville,Australia,2340
+DRW,Darwin,Australia,ASP,Alice Springs,Australia,1161
+DRW,Darwin,Australia,GOV,Gove,Australia,696
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,1166
+GOV,Gove,Australia,CNS,Cairns,Australia,704
+GOV,Gove,Australia,DRW,Darwin,Australia,696
+HBA,Hobart,Australia,MEL,Melbourne (AU),Australia,30069
+HID,Horn Island,Australia,CNS,Cairns,Australia,1800
+MKY,Mackay,Australia,TSV,Townsville,Australia,2700
+NTL,Newcastle (AU),Australia,BNE,Brisbane,Australia,1100
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,2925
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,11340
+PER,Perth,Australia,SYD,Sydney (AU),Australia,129
+LRE,Longreach,Australia,BCI,Barcaldine,Australia,50
+MEL,Melbourne (AU),Australia,ASP,Alice Springs,Australia,720
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,1845
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,12282
+PER,Perth,Australia,BME,Broome,Australia,2650
+PER,Perth,Australia,KTA,Karratha,Australia,348
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,12015
+KTA,Karratha,Australia,PHE,Port Hedland,Australia,256
+MEL,Melbourne (AU),Australia,HBA,Hobart,Australia,30069
+MEL,Melbourne (AU),Australia,MHU,Mount Hotham,Australia,468
+MEL,Melbourne (AU),Australia,OOL,Gold Coast,Australia,212
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,28302
+SYD,Sydney (AU),Australia,ADL,Adelaide,Australia,25920
+ROK,Rockhampton,Australia,SYD,Sydney (AU),Australia,1872
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,1145
+SYD,Sydney (AU),Australia,HTI,Hamilton Island,Australia,8307
+SYD,Sydney (AU),Australia,LDH,Lord Howe Island,Australia,756
+MHU,Mount Hotham,Australia,MEL,Melbourne (AU),Australia,468
+NTL,Newcastle (AU),Australia,SYD,Sydney (AU),Australia,3627
+OOL,Gold Coast,Australia,ADL,Adelaide,Australia,129
+OOL,Gold Coast,Australia,MEL,Melbourne (AU),Australia,212
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,2967
+PER,Perth,Australia,ASP,Alice Springs,Australia,988
+PHE,Port Hedland,Australia,KTA,Karratha,Australia,256
+ABX,Albury,Australia,SYD,Sydney (AU),Australia,5650
+ASP,Alice Springs,Australia,BME,Broome,Australia,448
+ASP,Alice Springs,Australia,SYD,Sydney (AU),Australia,1590
+ASP,Alice Springs,Australia,SYD,Sydney (AU),Australia,3240
+BLT,Blackwater,Australia,BNE,Brisbane,Australia,144
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,2925
+SYD,Sydney (AU),Australia,ROK,Rockhampton,Australia,1872
+TSV,Townsville,Australia,MKY,Mackay,Australia,2700
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,6321
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,6942
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,14885
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,1166
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,28569
+SYD,Sydney (AU),Australia,NTL,Newcastle (AU),Australia,3627
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,2967
+TSV,Townsville,Australia,CNS,Cairns,Australia,2376
+BME,Broome,Australia,ASP,Alice Springs,Australia,192
+BNE,Brisbane,Australia,BLT,Blackwater,Australia,828
+BNE,Brisbane,Australia,CNS,Cairns,Australia,14628
+BNE,Brisbane,Australia,DRW,Darwin,Australia,636
+BNE,Brisbane,Australia,TSV,Townsville,Australia,1677
+BNK,Ballina,Australia,SYD,Sydney (AU),Australia,2088
+ADL,Adelaide,Australia,PER,Perth,Australia,900
+ARM,Armidale,Australia,TMW,Tamworth,Australia,1944
+ASP,Alice Springs,Australia,CNS,Cairns,Australia,696
+ASP,Alice Springs,Australia,PER,Perth,Australia,1392
+AYQ,Ayers Rock,Australia,SYD,Sydney (AU),Australia,540
+BNE,Brisbane,Australia,CBR,Canberra,Australia,13224
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,57780
+BNE,Brisbane,Australia,MKY,Mackay,Australia,12402
+CNS,Cairns,Australia,BNE,Brisbane,Australia,13568
+CNS,Cairns,Australia,HID,Horn Island,Australia,1044
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,18568
+DPO,Devonport,Australia,MEL,Melbourne (AU),Australia,5436
+DRW,Darwin,Australia,BNE,Brisbane,Australia,636
+GFN,Grafton,Australia,SYD,Sydney (AU),Australia,2232
+HID,Horn Island,Australia,CNS,Cairns,Australia,1044
+BNE,Brisbane,Australia,OOL,Gold Coast,Australia,350
+BNE,Brisbane,Australia,ROK,Rockhampton,Australia,3100
+CBR,Canberra,Australia,BNE,Brisbane,Australia,13224
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,5320
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,15996
+CFS,Coffs Harbour,Australia,GFN,Grafton,Australia,36
+CNS,Cairns,Australia,ASP,Alice Springs,Australia,696
+GFN,Grafton,Australia,CFS,Coffs Harbour,Australia,36
+GLT,Gladstone,Australia,ROK,Rockhampton,Australia,1550
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,783
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,258
+KTA,Karratha,Australia,PER,Perth,Australia,1472
+MEL,Melbourne (AU),Australia,DPO,Devonport,Australia,5436
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,424
+HTI,Hamilton Island,Australia,SYD,Sydney (AU),Australia,129
+LST,Launceston,Australia,SYD,Sydney (AU),Australia,3627
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,54000
+MKY,Mackay,Australia,BNE,Brisbane,Australia,12402
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,783
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,258
+PER,Perth,Australia,KTA,Karratha,Australia,1472
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,530
+PER,Perth,Australia,PHE,Port Hedland,Australia,2688
+PHE,Port Hedland,Australia,PER,Perth,Australia,2688
+OOL,Gold Coast,Australia,BNE,Brisbane,Australia,350
+PBO,Paraburdoo,Australia,PER,Perth,Australia,1856
+PER,Perth,Australia,ADL,Adelaide,Australia,1080
+PER,Perth,Australia,ASP,Alice Springs,Australia,1218
+PER,Perth,Australia,PBO,Paraburdoo,Australia,1344
+ROK,Rockhampton,Australia,BNE,Brisbane,Australia,1250
+ROK,Rockhampton,Australia,GLT,Gladstone,Australia,3400
+SYD,Sydney (AU),Australia,AYQ,Ayers Rock,Australia,540
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,5320
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,19350
+SYD,Sydney (AU),Australia,ABX,Albury,Australia,5650
+SYD,Sydney (AU),Australia,ASP,Alice Springs,Australia,1590
+SYD,Sydney (AU),Australia,ASP,Alice Springs,Australia,3240
+SYD,Sydney (AU),Australia,BNK,Ballina,Australia,2088
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,18146
+SYD,Sydney (AU),Australia,GFN,Grafton,Australia,2232
+TSV,Townsville,Australia,BNE,Brisbane,Australia,1677
+ZNE,Newman,Australia,PBO,Paraburdoo,Australia,380
+SYD,Sydney (AU),Australia,HTI,Hamilton Island,Australia,129
+SYD,Sydney (AU),Australia,LST,Launceston,Australia,3627
+TMW,Tamworth,Australia,ARM,Armidale,Australia,1836
+AYQ,Ayers Rock,Australia,SYD,Sydney (AU),Australia,1677
+BME,Broome,Australia,PER,Perth,Australia,2496
+BNE,Brisbane,Australia,HTI,Hamilton Island,Australia,258
+BNE,Brisbane,Australia,OOL,Gold Coast,Australia,1296
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,2664
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,4408
+ADL,Adelaide,Australia,BNE,Brisbane,Australia,6572
+ADL,Adelaide,Australia,CBR,Canberra,Australia,106
+DRW,Darwin,Australia,GOV,Gove,Australia,912
+DRW,Darwin,Australia,MEL,Melbourne (AU),Australia,318
+GOV,Gove,Australia,DRW,Darwin,Australia,912
+HTI,Hamilton Island,Australia,BNE,Brisbane,Australia,258
+KTA,Karratha,Australia,PER,Perth,Australia,5300
+LST,Launceston,Australia,MEL,Melbourne (AU),Australia,14157
+MEL,Melbourne (AU),Australia,ADL,Adelaide,Australia,458
+ASP,Alice Springs,Australia,BNE,Brisbane,Australia,1292
+ASP,Alice Springs,Australia,DRW,Darwin,Australia,256
+ASP,Alice Springs,Australia,DRW,Darwin,Australia,2332
+BNE,Brisbane,Australia,ADL,Adelaide,Australia,8268
+BNE,Brisbane,Australia,ASP,Alice Springs,Australia,1292
+BNE,Brisbane,Australia,DRW,Darwin,Australia,3225
+BNE,Brisbane,Australia,LDH,Lord Howe Island,Australia,144
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,2664
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,4408
+MEL,Melbourne (AU),Australia,DRW,Darwin,Australia,318
+MEL,Melbourne (AU),Australia,LST,Launceston,Australia,14157
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,46535
+MRZ,Moree,Australia,SYD,Sydney (AU),Australia,2088
+OOL,Gold Coast,Australia,BNE,Brisbane,Australia,1152
+PBO,Paraburdoo,Australia,PER,Perth,Australia,435
+PER,Perth,Australia,BME,Broome,Australia,2240
+PER,Perth,Australia,KTA,Karratha,Australia,5300
+ADL,Adelaide,Australia,DRW,Darwin,Australia,212
+CNS,Cairns,Australia,WEI,Weipa,Australia,1900
+DRW,Darwin,Australia,ASP,Alice Springs,Australia,256
+DRW,Darwin,Australia,ASP,Alice Springs,Australia,2332
+DRW,Darwin,Australia,BNE,Brisbane,Australia,3225
+PER,Perth,Australia,PBO,Paraburdoo,Australia,1305
+SYD,Sydney (AU),Australia,AYQ,Ayers Rock,Australia,1677
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,45510
+ASP,Alice Springs,Australia,AYQ,Ayers Rock,Australia,1131
+ASP,Alice Springs,Australia,BME,Broome,Australia,760
+ASP,Alice Springs,Australia,DRW,Darwin,Australia,1218
+AYQ,Ayers Rock,Australia,ASP,Alice Springs,Australia,1131
+AYQ,Ayers Rock,Australia,CNS,Cairns,Australia,3286
+BCI,Barcaldine,Australia,LRE,Longreach,Australia,504
+BME,Broome,Australia,ASP,Alice Springs,Australia,1064
+DRW,Darwin,Australia,MEL,Melbourne (AU),Australia,2709
+DRW,Darwin,Australia,PER,Perth,Australia,212
+LDH,Lord Howe Island,Australia,BNE,Brisbane,Australia,144
+MEL,Melbourne (AU),Australia,DRW,Darwin,Australia,2709
+SYD,Sydney (AU),Australia,TMW,Tamworth,Australia,3420
+TMW,Tamworth,Australia,SYD,Sydney (AU),Australia,3528
+ADL,Adelaide,Australia,BNE,Brisbane,Australia,3612
+CFS,Coffs Harbour,Australia,SYD,Sydney (AU),Australia,2160
+CNS,Cairns,Australia,AYQ,Ayers Rock,Australia,3286
+CNS,Cairns,Australia,HTI,Hamilton Island,Australia,300
+CNS,Cairns,Australia,TSV,Townsville,Australia,4100
+DRW,Darwin,Australia,ADL,Adelaide,Australia,212
+DRW,Darwin,Australia,ASP,Alice Springs,Australia,1392
+DRW,Darwin,Australia,PER,Perth,Australia,3240
+HTI,Hamilton Island,Australia,CNS,Cairns,Australia,300
+MKY,Mackay,Australia,ROK,Rockhampton,Australia,2450
+NTL,Newcastle (AU),Australia,OOL,Gold Coast,Australia,350
+OOL,Gold Coast,Australia,NTL,Newcastle (AU),Australia,350
+PER,Perth,Australia,DRW,Darwin,Australia,212
+PER,Perth,Australia,ZNE,Newman,Australia,1792
+ROK,Rockhampton,Australia,MKY,Mackay,Australia,2450
+MCY,Sunshine Coast,Australia,SYD,Sydney (AU),Australia,106
+MKY,Mackay,Australia,ROK,Rockhampton,Australia,468
+MKY,Mackay,Australia,TSV,Townsville,Australia,684
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,2880
+PER,Perth,Australia,DRW,Darwin,Australia,3240
+BNE,Brisbane,Australia,ADL,Adelaide,Australia,1161
+BNE,Brisbane,Australia,DRW,Darwin,Australia,5740
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,27900
+BNE,Brisbane,Australia,TSV,Townsville,Australia,2014
+DRW,Darwin,Australia,BNE,Brisbane,Australia,5740
+DRW,Darwin,Australia,GOV,Gove,Australia,704
+PER,Perth,Australia,PHE,Port Hedland,Australia,1444
+PER,Perth,Australia,PHE,Port Hedland,Australia,870
+PER,Perth,Australia,ZNE,Newman,Australia,957
+PHE,Port Hedland,Australia,PER,Perth,Australia,1444
+PHE,Port Hedland,Australia,PER,Perth,Australia,870
+ROK,Rockhampton,Australia,MKY,Mackay,Australia,468
+SYD,Sydney (AU),Australia,CFS,Coffs Harbour,Australia,2160
+WEI,Weipa,Australia,CNS,Cairns,Australia,1900
+ZNE,Newman,Australia,PER,Perth,Australia,1280
+GOV,Gove,Australia,DRW,Darwin,Australia,704
+HBA,Hobart,Australia,SYD,Sydney (AU),Australia,10881
+MEL,Melbourne (AU),Australia,NTL,Newcastle (AU),Australia,2628
+SYD,Sydney (AU),Australia,MCY,Sunshine Coast,Australia,106
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,2880
+TSV,Townsville,Australia,CNS,Cairns,Australia,4050
+TSV,Townsville,Australia,MKY,Mackay,Australia,684
+ZNE,Newman,Australia,PER,Perth,Australia,1827
+MHU,Mount Hotham,Australia,SYD,Sydney (AU),Australia,1152
+NTL,Newcastle (AU),Australia,MEL,Melbourne (AU),Australia,2628
+PER,Perth,Australia,SYD,Sydney (AU),Australia,3280
+PER,Perth,Australia,SYD,Sydney (AU),Australia,6870
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,4134
+ADL,Adelaide,Australia,SYD,Sydney (AU),Australia,9222
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,26820
+SYD,Sydney (AU),Australia,HBA,Hobart,Australia,10881
+SYD,Sydney (AU),Australia,MHU,Mount Hotham,Australia,1152
+SYD,Sydney (AU),Australia,PER,Perth,Australia,3485
+SYD,Sydney (AU),Australia,PER,Perth,Australia,8015
+TSV,Townsville,Australia,BNE,Brisbane,Australia,2120
+BNE,Brisbane,Australia,LRE,Longreach,Australia,144
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,1688
+CFS,Coffs Harbour,Australia,SYD,Sydney (AU),Australia,5900
+ADL,Adelaide,Australia,SYD,Sydney (AU),Australia,2977
+ASP,Alice Springs,Australia,AYQ,Ayers Rock,Australia,1368
+AYQ,Ayers Rock,Australia,ASP,Alice Springs,Australia,1368
+AYQ,Ayers Rock,Australia,CNS,Cairns,Australia,1305
+AYQ,Ayers Rock,Australia,PER,Perth,Australia,1131
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,4100
+HID,Horn Island,Australia,WEI,Weipa,Australia,36
+LRE,Longreach,Australia,BNE,Brisbane,Australia,972
+BCI,Barcaldine,Australia,BNE,Brisbane,Australia,50
+BME,Broome,Australia,MEL,Melbourne (AU),Australia,1440
+BNE,Brisbane,Australia,HTI,Hamilton Island,Australia,3074
+BNE,Brisbane,Australia,TSV,Townsville,Australia,13500
+BNK,Ballina,Australia,SYD,Sydney (AU),Australia,200
+CNS,Cairns,Australia,AYQ,Ayers Rock,Australia,1131
+CNS,Cairns,Australia,DRW,Darwin,Australia,174
+CNS,Cairns,Australia,MEL,Melbourne (AU),Australia,2580
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,410
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,360
+HTI,Hamilton Island,Australia,BNE,Brisbane,Australia,3074
+MEL,Melbourne (AU),Australia,BME,Broome,Australia,1440
+ADL,Adelaide,Australia,DRW,Darwin,Australia,1440
+ADL,Adelaide,Australia,CBR,Canberra,Australia,6321
+ARM,Armidale,Australia,SYD,Sydney (AU),Australia,2628
+BME,Broome,Australia,PER,Perth,Australia,1672
+BNE,Brisbane,Australia,CNS,Cairns,Australia,4128
+BNK,Ballina,Australia,GFN,Grafton,Australia,2232
+CBR,Canberra,Australia,ADL,Adelaide,Australia,6450
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,212
+CFS,Coffs Harbour,Australia,GFN,Grafton,Australia,1300
+CNS,Cairns,Australia,BNE,Brisbane,Australia,1548
+MCY,Sunshine Coast,Australia,SYD,Sydney (AU),Australia,7020
+MEL,Melbourne (AU),Australia,ADL,Adelaide,Australia,4240
+MEL,Melbourne (AU),Australia,MQL,Mildura,Australia,5436
+MQL,Mildura,Australia,MEL,Melbourne (AU),Australia,5436
+PBO,Paraburdoo,Australia,PER,Perth,Australia,760
+MEL,Melbourne (AU),Australia,OOL,Gold Coast,Australia,900
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,16942
+OOL,Gold Coast,Australia,MEL,Melbourne (AU),Australia,900
+PER,Perth,Australia,AYQ,Ayers Rock,Australia,1305
+BDB,Bundaberg,Australia,GLT,Gladstone,Australia,144
+BNE,Brisbane,Australia,PPP,Proserpine,Australia,2356
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,6304
+BWT,Burnie,Australia,MEL,Melbourne (AU),Australia,3492
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,318
+CNS,Cairns,Australia,MEL,Melbourne (AU),Australia,1166
+GFN,Grafton,Australia,BNK,Ballina,Australia,2232
+GFN,Grafton,Australia,CFS,Coffs Harbour,Australia,1300
+HTI,Hamilton Island,Australia,SYD,Sydney (AU),Australia,212
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,2560
+KTA,Karratha,Australia,PER,Perth,Australia,516
+PER,Perth,Australia,PBO,Paraburdoo,Australia,380
+PER,Perth,Australia,SYD,Sydney (AU),Australia,7092
+PPP,Proserpine,Australia,SYD,Sydney (AU),Australia,936
+SYD,Sydney (AU),Australia,ADL,Adelaide,Australia,7632
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,2110
+SYD,Sydney (AU),Australia,CFS,Coffs Harbour,Australia,5900
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,4100
+SYD,Sydney (AU),Australia,ADL,Adelaide,Australia,2519
+SYD,Sydney (AU),Australia,BNK,Ballina,Australia,200
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,410
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,360
+DRW,Darwin,Australia,ADL,Adelaide,Australia,1440
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,5088
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,3420
+SYD,Sydney (AU),Australia,MCY,Sunshine Coast,Australia,7020
+SYD,Sydney (AU),Australia,PER,Perth,Australia,6698
+SYD,Sydney (AU),Australia,PPP,Proserpine,Australia,936
+WEI,Weipa,Australia,HID,Horn Island,Australia,36
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,18518
+SYD,Sydney (AU),Australia,TMW,Tamworth,Australia,1450
+SYD,Sydney (AU),Australia,WGA,Wagga Wagga,Australia,200
+TMW,Tamworth,Australia,SYD,Sydney (AU),Australia,1500
+TSV,Townsville,Australia,BNE,Brisbane,Australia,13320
+WGA,Wagga Wagga,Australia,SYD,Sydney (AU),Australia,200
+MEL,Melbourne (AU),Australia,BWT,Burnie,Australia,3492
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,106
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,1845
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,1603
+NAA,Narrabri,Australia,MRZ,Moree,Australia,2088
+NTL,Newcastle (AU),Australia,OOL,Gold Coast,Australia,1152
+OOL,Gold Coast,Australia,NTL,Newcastle (AU),Australia,1296
+PER,Perth,Australia,BME,Broome,Australia,2052
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,2560
+PER,Perth,Australia,KTA,Karratha,Australia,516
+PER,Perth,Australia,SYD,Sydney (AU),Australia,4220
+SYD,Sydney (AU),Australia,ARM,Armidale,Australia,2736
+PBO,Paraburdoo,Australia,ZNE,Newman,Australia,870
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,5088
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,2050
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,1603
+PPP,Proserpine,Australia,BNE,Brisbane,Australia,2356
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,5910
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,318
+SYD,Sydney (AU),Australia,HTI,Hamilton Island,Australia,212
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,5580
+SYD,Sydney (AU),Australia,PER,Perth,Australia,3798
+ADL,Adelaide,Australia,ASP,Alice Springs,Australia,2332
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,23220
+ADL,Adelaide,Australia,PER,Perth,Australia,2968
+ASP,Alice Springs,Australia,ADL,Adelaide,Australia,2332
+ASP,Alice Springs,Australia,DRW,Darwin,Australia,988
+AYQ,Ayers Rock,Australia,SYD,Sydney (AU),Australia,4240
+BDB,Bundaberg,Australia,BNE,Brisbane,Australia,3348
+BNE,Brisbane,Australia,BDB,Bundaberg,Australia,3492
+BNE,Brisbane,Australia,GLT,Gladstone,Australia,6150
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,4240
+CNS,Cairns,Australia,DRW,Darwin,Australia,3286
+CNS,Cairns,Australia,HTI,Hamilton Island,Australia,1116
+DRW,Darwin,Australia,ASP,Alice Springs,Australia,836
+DRW,Darwin,Australia,CNS,Cairns,Australia,3286
+DRW,Darwin,Australia,PER,Perth,Australia,1419
+GLT,Gladstone,Australia,BNE,Brisbane,Australia,8000
+HTI,Hamilton Island,Australia,CNS,Cairns,Australia,1116
+HTI,Hamilton Island,Australia,MEL,Melbourne (AU),Australia,106
+MEL,Melbourne (AU),Australia,ADL,Adelaide,Australia,24897
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,5724
+MEL,Melbourne (AU),Australia,HTI,Hamilton Island,Australia,106
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,4386
+PER,Perth,Australia,ADL,Adelaide,Australia,2756
+PER,Perth,Australia,DRW,Darwin,Australia,1419
+PER,Perth,Australia,ZNE,Newman,Australia,380
+SYD,Sydney (AU),Australia,AYQ,Ayers Rock,Australia,4240
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,5676
+ADL,Adelaide,Australia,MEL,Melbourne (AU),Australia,18180
+ASP,Alice Springs,Australia,CNS,Cairns,Australia,960
+ASP,Alice Springs,Australia,MEL,Melbourne (AU),Australia,645
+ASP,Alice Springs,Australia,PER,Perth,Australia,256
+BNE,Brisbane,Australia,DRW,Darwin,Australia,687
+BNE,Brisbane,Australia,ISA,Mount Isa,Australia,4104
+ADL,Adelaide,Australia,ASP,Alice Springs,Australia,1161
+ASP,Alice Springs,Australia,ADL,Adelaide,Australia,1161
+ASP,Alice Springs,Australia,CNS,Cairns,Australia,912
+ASP,Alice Springs,Australia,MEL,Melbourne (AU),Australia,2332
+BKQ,Blackall,Australia,LRE,Longreach,Australia,200
+BNE,Brisbane,Australia,BKQ,Blackall,Australia,200
+BNE,Brisbane,Australia,EMD,Emerald,Australia,2088
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,22140
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,27993
+BNE,Brisbane,Australia,NTL,Newcastle (AU),Australia,1836
+BNE,Brisbane,Australia,RMA,Roma,Australia,1116
+BNE,Brisbane,Australia,ROK,Rockhampton,Australia,10062
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,17000
+CNS,Cairns,Australia,ASP,Alice Springs,Australia,960
+DRW,Darwin,Australia,BNE,Brisbane,Australia,687
+CNS,Cairns,Australia,ASP,Alice Springs,Australia,912
+CNS,Cairns,Australia,GOV,Gove,Australia,696
+DRW,Darwin,Australia,SYD,Sydney (AU),Australia,645
+EMD,Emerald,Australia,BNE,Brisbane,Australia,2772
+GOV,Gove,Australia,CNS,Cairns,Australia,696
+ISA,Mount Isa,Australia,BNE,Brisbane,Australia,4104
+MEL,Melbourne (AU),Australia,ADL,Adelaide,Australia,18720
+MEL,Melbourne (AU),Australia,ASP,Alice Springs,Australia,645
+MEL,Melbourne (AU),Australia,OOL,Gold Coast,Australia,15444
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,848
+NTL,Newcastle (AU),Australia,BNE,Brisbane,Australia,1980
+OOL,Gold Coast,Australia,MEL,Melbourne (AU),Australia,15444
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,4664
+MEL,Melbourne (AU),Australia,ASP,Alice Springs,Australia,2332
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,24768
+MEL,Melbourne (AU),Australia,OOL,Gold Coast,Australia,516
+PER,Perth,Australia,ASP,Alice Springs,Australia,512
+RMA,Roma,Australia,BNE,Brisbane,Australia,1116
+ROK,Rockhampton,Australia,BNE,Brisbane,Australia,10062
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,17000
+OOL,Gold Coast,Australia,MEL,Melbourne (AU),Australia,516
+PER,Perth,Australia,SYD,Sydney (AU),Australia,6942
+PQQ,Port Macquarie,Australia,SYD,Sydney (AU),Australia,4644
+ROK,Rockhampton,Australia,GLT,Gladstone,Australia,612
+SYD,Sydney (AU),Australia,ARM,Armidale,Australia,50
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,1060
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,4558
+SYD,Sydney (AU),Australia,TSV,Townsville,Australia,4446
+TSV,Townsville,Australia,SYD,Sydney (AU),Australia,4446
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,22755
+SYD,Sydney (AU),Australia,DRW,Darwin,Australia,645
+SYD,Sydney (AU),Australia,NAA,Narrabri,Australia,2088
+SYD,Sydney (AU),Australia,PER,Perth,Australia,6942
+SYD,Sydney (AU),Australia,PQQ,Port Macquarie,Australia,4644
+ADL,Adelaide,Australia,SYD,Sydney (AU),Australia,12642
+BDB,Bundaberg,Australia,BNE,Brisbane,Australia,200
+BKQ,Blackall,Australia,LRE,Longreach,Australia,324
+BME,Broome,Australia,PER,Perth,Australia,1548
+BNE,Brisbane,Australia,BDB,Bundaberg,Australia,200
+BNE,Brisbane,Australia,CFS,Coffs Harbour,Australia,1116
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,5300
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,180
+CFS,Coffs Harbour,Australia,BNE,Brisbane,Australia,1116
+CNS,Cairns,Australia,WEI,Weipa,Australia,36
+KTA,Karratha,Australia,PER,Perth,Australia,608
+MCY,Sunshine Coast,Australia,MEL,Melbourne (AU),Australia,3627
+MEL,Melbourne (AU),Australia,CNS,Cairns,Australia,5580
+MEL,Melbourne (AU),Australia,MCY,Sunshine Coast,Australia,3627
+MEL,Melbourne (AU),Australia,PER,Perth,Australia,8643
+NTL,Newcastle (AU),Australia,SYD,Sydney (AU),Australia,972
+PER,Perth,Australia,BME,Broome,Australia,1548
+PER,Perth,Australia,KTA,Karratha,Australia,608
+PER,Perth,Australia,MEL,Melbourne (AU),Australia,9288
+SYD,Sydney (AU),Australia,ADL,Adelaide,Australia,13932
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,6360
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,180
+SYD,Sydney (AU),Australia,NTL,Newcastle (AU),Australia,972
+WEI,Weipa,Australia,CNS,Cairns,Australia,36
+ZNE,Newman,Australia,PBO,Paraburdoo,Australia,512
+ADL,Adelaide,Australia,PER,Perth,Australia,10707
+AYQ,Ayers Rock,Australia,PER,Perth,Australia,1368
+BNE,Brisbane,Australia,GLT,Gladstone,Australia,1548
+CFS,Coffs Harbour,Australia,NTL,Newcastle (AU),Australia,972
+CNS,Cairns,Australia,DRW,Darwin,Australia,76
+CTL,Charleville,Australia,RMA,Roma,Australia,1116
+DRW,Darwin,Australia,CNS,Cairns,Australia,228
+GLT,Gladstone,Australia,BNE,Brisbane,Australia,2304
+LRE,Longreach,Australia,BNE,Brisbane,Australia,150
+NTL,Newcastle (AU),Australia,CFS,Coffs Harbour,Australia,972
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,2255
+PER,Perth,Australia,ADL,Adelaide,Australia,10191
+PER,Perth,Australia,AYQ,Ayers Rock,Australia,1216
+RMA,Roma,Australia,CTL,Charleville,Australia,1116
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,2255
+SYD,Sydney (AU),Australia,WGA,Wagga Wagga,Australia,4860
+WGA,Wagga Wagga,Australia,SYD,Sydney (AU),Australia,4860
+ADL,Adelaide,Australia,DRW,Darwin,Australia,3870
+AYQ,Ayers Rock,Australia,CNS,Cairns,Australia,1064
+BNE,Brisbane,Australia,BCI,Barcaldine,Australia,504
+BNE,Brisbane,Australia,HTI,Hamilton Island,Australia,684
+BNE,Brisbane,Australia,MEL,Melbourne (AU),Australia,8385
+BNE,Brisbane,Australia,PER,Perth,Australia,11160
+BNE,Brisbane,Australia,ROK,Rockhampton,Australia,828
+BNE,Brisbane,Australia,SYD,Sydney (AU),Australia,37098
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,5580
+CNS,Cairns,Australia,AYQ,Ayers Rock,Australia,1216
+DRW,Darwin,Australia,ADL,Adelaide,Australia,3870
+HTI,Hamilton Island,Australia,BNE,Brisbane,Australia,684
+HTI,Hamilton Island,Australia,MEL,Melbourne (AU),Australia,1419
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,228
+MEL,Melbourne (AU),Australia,BNE,Brisbane,Australia,14319
+MEL,Melbourne (AU),Australia,HTI,Hamilton Island,Australia,1419
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,91142
+OOL,Gold Coast,Australia,SYD,Sydney (AU),Australia,16259
+PER,Perth,Australia,BNE,Brisbane,Australia,11160
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,228
+PER,Perth,Australia,SYD,Sydney (AU),Australia,16020
+ROK,Rockhampton,Australia,BNE,Brisbane,Australia,216
+SYD,Sydney (AU),Australia,BNE,Brisbane,Australia,37098
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,5580
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,91600
+SYD,Sydney (AU),Australia,OOL,Gold Coast,Australia,16259
+SYD,Sydney (AU),Australia,PER,Perth,Australia,16200
+ABX,Albury,Australia,SYD,Sydney (AU),Australia,540
+ADL,Adelaide,Australia,BNE,Brisbane,Australia,540
+ADL,Adelaide,Australia,OOL,Gold Coast,Australia,636
+ASP,Alice Springs,Australia,SYD,Sydney (AU),Australia,129
+BME,Broome,Australia,PER,Perth,Australia,720
+BNE,Brisbane,Australia,ADL,Adelaide,Australia,1080
+CNS,Cairns,Australia,SYD,Sydney (AU),Australia,540
+DBO,Dubbo,Australia,SYD,Sydney (AU),Australia,5148
+OOL,Gold Coast,Australia,ADL,Adelaide,Australia,636
+PER,Perth,Australia,BME,Broome,Australia,720
+SYD,Sydney (AU),Australia,ABX,Albury,Australia,540
+SYD,Sydney (AU),Australia,ASP,Alice Springs,Australia,129
+SYD,Sydney (AU),Australia,CNS,Cairns,Australia,540
+SYD,Sydney (AU),Australia,DBO,Dubbo,Australia,5148
+BNE,Brisbane,Australia,TSV,Townsville,Australia,2700
+TSV,Townsville,Australia,BNE,Brisbane,Australia,2700
+BDD,Badu Island,Australia,KUG,Kubin Island,Australia,540
+KUG,Kubin Island,Australia,HID,Horn Island,Australia,540
+CNC,Coconut Island,Australia,SYU,Warraber Island,Australia,380
+SYU,Warraber Island,Australia,CNC,Coconut Island,Australia,260
+GIC,Boigu Island,Australia,SBR,Saibai Island,Australia,360
+SBR,Saibai Island,Australia,GIC,Boigu Island,Australia,180
+HID,Horn Island,Australia,SYU,Warraber Island,Australia,260
+SYU,Warraber Island,Australia,HID,Horn Island,Australia,380
+BDD,Badu Island,Australia,GIC,Boigu Island,Australia,100
+HID,Horn Island,Australia,SBR,Saibai Island,Australia,180
+SBR,Saibai Island,Australia,HID,Horn Island,Australia,360
+HID,Horn Island,Australia,MYI,Murray Island,Australia,260
+MYI,Murray Island,Australia,HID,Horn Island,Australia,380
+MYI,Murray Island,Australia,NLF,Darnley Island,Australia,260
+NLF,Darnley Island,Australia,MYI,Murray Island,Australia,380
+HID,Horn Island,Australia,BDD,Badu Island,Australia,640
+HID,Horn Island,Australia,NLF,Darnley Island,Australia,380
+NLF,Darnley Island,Australia,HID,Horn Island,Australia,100
+CNC,Coconut Island,Australia,XMY,Yam Island,Australia,260
+GIC,Boigu Island,Australia,HID,Horn Island,Australia,180
+HID,Horn Island,Australia,GIC,Boigu Island,Australia,260
+XMY,Yam Island,Australia,CNC,Coconut Island,Australia,380
+HID,Horn Island,Australia,XMY,Yam Island,Australia,380
+NLF,Darnley Island,Australia,OKR,Yorke Island,Australia,160
+XMY,Yam Island,Australia,HID,Horn Island,Australia,260
+OKR,Yorke Island,Australia,HID,Horn Island,Australia,160
+ADL,Adelaide,Australia,PLO,Port Lincoln,Australia,2160
+PLO,Port Lincoln,Australia,ADL,Adelaide,Australia,2176
+ADL,Adelaide,Australia,PUG,Port Augusta,Australia,414
+PUG,Port Augusta,Australia,ADL,Adelaide,Australia,414
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,25110
+BME,Broome,Australia,KNX,Kununurra,Australia,1860
+KNX,Kununurra,Australia,BME,Broome,Australia,1860
+DRW,Darwin,Australia,KTR,Katherine,Australia,437
+DRW,Darwin,Australia,MNG,Maningrida,Australia,1026
+KTR,Katherine,Australia,DRW,Darwin,Australia,437
+MNG,Maningrida,Australia,DRW,Darwin,Australia,1026
+GOV,Gove,Australia,GTE,Groote Eylandt,Australia,660
+GTE,Groote Eylandt,Australia,GOV,Gove,Australia,660
+ASP,Alice Springs,Australia,TCA,Tennant Creek,Australia,437
+KTR,Katherine,Australia,TCA,Tennant Creek,Australia,437
+TCA,Tennant Creek,Australia,ASP,Alice Springs,Australia,437
+TCA,Tennant Creek,Australia,KTR,Katherine,Australia,437
+DRW,Darwin,Australia,GOV,Gove,Australia,660
+GOV,Gove,Australia,DRW,Darwin,Australia,660
+DRW,Darwin,Australia,KNX,Kununurra,Australia,2130
+KNX,Kununurra,Australia,DRW,Darwin,Australia,2130
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,10757
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,10757
+MEL,Melbourne (AU),Australia,MGB,Mount Gambier,Australia,1615
+MGB,Mount Gambier,Australia,MEL,Melbourne (AU),Australia,1615
+ADL,Adelaide,Australia,MGB,Mount Gambier,Australia,1976
+MGB,Mount Gambier,Australia,ADL,Adelaide,Australia,1976
+ADL,Adelaide,Australia,WYA,Whyalla,Australia,2052
+WYA,Whyalla,Australia,ADL,Adelaide,Australia,2052
+ADL,Adelaide,Australia,MQL,Mildura,Australia,500
+MQL,Mildura,Australia,ADL,Adelaide,Australia,500
+GET,Geraldton (AU),Australia,PER,Perth,Australia,4300
+LER,Leinster,Australia,LNO,Leonora,Australia,200
+LNO,Leonora,Australia,LER,Leinster,Australia,500
+PER,Perth,Australia,GET,Geraldton (AU),Australia,4500
+PER,Perth,Australia,LVO,Laverton,Australia,100
+LVO,Laverton,Australia,LNO,Leonora,Australia,100
+CVQ,Carnarvon,Australia,LEA,Learmonth,Australia,200
+LEA,Learmonth,Australia,CVQ,Carnarvon,Australia,200
+MJK,Monkey Mia,Australia,LEA,Learmonth,Australia,450
+PER,Perth,Australia,MJK,Monkey Mia,Australia,800
+ALH,Albany,Australia,PER,Perth,Australia,2900
+MJK,Monkey Mia,Australia,CVQ,Carnarvon,Australia,350
+PER,Perth,Australia,ALH,Albany,Australia,2900
+KGI,Kalgoorlie-Boulder,Australia,PER,Perth,Australia,1600
+PER,Perth,Australia,KGI,Kalgoorlie-Boulder,Australia,1600
+CVQ,Carnarvon,Australia,PER,Perth,Australia,1050
+PER,Perth,Australia,CVQ,Carnarvon,Australia,200
+LEA,Learmonth,Australia,PER,Perth,Australia,1100
+LER,Leinster,Australia,PER,Perth,Australia,550
+PER,Perth,Australia,LEA,Learmonth,Australia,850
+PER,Perth,Australia,LER,Leinster,Australia,250
+CVQ,Carnarvon,Australia,GET,Geraldton (AU),Australia,500
+GET,Geraldton (AU),Australia,CVQ,Carnarvon,Australia,1000
+EPR,Esperance,Australia,PER,Perth,Australia,2300
+LEA,Learmonth,Australia,GET,Geraldton (AU),Australia,250
+PER,Perth,Australia,EPR,Esperance,Australia,2300
+GET,Geraldton (AU),Australia,MJK,Monkey Mia,Australia,50
+MJK,Monkey Mia,Australia,GET,Geraldton (AU),Australia,50
+LNO,Leonora,Australia,PER,Perth,Australia,450
+PER,Perth,Australia,LNO,Leonora,Australia,650
+MEL,Melbourne (AU),Australia,SYD,Sydney (AU),Australia,775
+SYD,Sydney (AU),Australia,MEL,Melbourne (AU),Australia,775
+ADL,Adelaide,Australia,WYA,Whyalla,Australia,1178
+NRA,Narrandera,Australia,SYD,Sydney (AU),Australia,972
+SYD,Sydney (AU),Australia,NRA,Narrandera,Australia,1944
+SYD,Sydney (AU),Australia,WGA,Wagga Wagga,Australia,3060
+WGA,Wagga Wagga,Australia,SYD,Sydney (AU),Australia,3060
+WYA,Whyalla,Australia,ADL,Adelaide,Australia,1178
+ADL,Adelaide,Australia,MGB,Mount Gambier,Australia,950
+MGB,Mount Gambier,Australia,ADL,Adelaide,Australia,950
+ABX,Albury,Australia,SYD,Sydney (AU),Australia,3204
+ADL,Adelaide,Australia,OLP,Olympic Dam,Australia,2772
+BHS,Bathurst (AU),Australia,SYD,Sydney (AU),Australia,1539
+OLP,Olympic Dam,Australia,ADL,Adelaide,Australia,2772
+SYD,Sydney (AU),Australia,ABX,Albury,Australia,3204
+SYD,Sydney (AU),Australia,BHS,Bathurst (AU),Australia,1539
+DPO,Devonport,Australia,MEL,Melbourne (AU),Australia,1116
+MEL,Melbourne (AU),Australia,DPO,Devonport,Australia,1116
+ADL,Adelaide,Australia,CED,Ceduna,Australia,741
+BNK,Ballina,Australia,SYD,Sydney (AU),Australia,1116
+CED,Ceduna,Australia,ADL,Adelaide,Australia,741
+KNS,King Island,Australia,MEL,Melbourne (AU),Australia,144
+MEL,Melbourne (AU),Australia,KNS,King Island,Australia,144
+MYA,Moruya,Australia,SYD,Sydney (AU),Australia,1944
+SYD,Sydney (AU),Australia,BNK,Ballina,Australia,2232
+SYD,Sydney (AU),Australia,MYA,Moruya,Australia,288
+MEL,Melbourne (AU),Australia,WGA,Wagga Wagga,Australia,437
+SYD,Sydney (AU),Australia,MIM,Merimbula,Australia,1656
+WGA,Wagga Wagga,Australia,MEL,Melbourne (AU),Australia,437
+GFF,Griffith,Australia,MQL,Mildura,Australia,612
+MEL,Melbourne (AU),Australia,MIM,Merimbula,Australia,494
+MIM,Merimbula,Australia,MEL,Melbourne (AU),Australia,494
+MQL,Mildura,Australia,GFF,Griffith,Australia,612
+KNS,King Island,Australia,MEL,Melbourne (AU),Australia,513
+MEL,Melbourne (AU),Australia,KNS,King Island,Australia,513
+ADL,Adelaide,Australia,PLO,Port Lincoln,Australia,5148
+BNK,Ballina,Australia,LSY,Lismore,Australia,2232
+LSY,Lismore,Australia,BNK,Ballina,Australia,1116
+PLO,Port Lincoln,Australia,ADL,Adelaide,Australia,5148
+DBO,Dubbo,Australia,SYD,Sydney (AU),Australia,3888
+SYD,Sydney (AU),Australia,DBO,Dubbo,Australia,3888
+ABX,Albury,Australia,MEL,Melbourne (AU),Australia,2916
+LSY,Lismore,Australia,SYD,Sydney (AU),Australia,2916
+MGB,Mount Gambier,Australia,PTJ,Portland (AU),Australia,1026
+MEL,Melbourne (AU),Australia,ABX,Albury,Australia,2916
+CBR,Canberra,Australia,MEL,Melbourne (AU),Australia,2376
+CBR,Canberra,Australia,SYD,Sydney (AU),Australia,6156
+MEL,Melbourne (AU),Australia,CBR,Canberra,Australia,2700
+PTJ,Portland (AU),Australia,MGB,Mount Gambier,Australia,950
+SYD,Sydney (AU),Australia,LSY,Lismore,Australia,1800
+SYD,Sydney (AU),Australia,CBR,Canberra,Australia,6732
+BWT,Burnie,Australia,MEL,Melbourne (AU),Australia,1116
+MEL,Melbourne (AU),Australia,BWT,Burnie,Australia,1116
+ABX,Albury,Australia,WGA,Wagga Wagga,Australia,2088
+ADL,Adelaide,Australia,KGC,Kingscote,Australia,513
+BHQ,Broken Hill,Australia,DBO,Dubbo,Australia,972
+DBO,Dubbo,Australia,BHQ,Broken Hill,Australia,972
+KGC,Kingscote,Australia,ADL,Adelaide,Australia,513
+WGA,Wagga Wagga,Australia,ABX,Albury,Australia,2088
+ADL,Adelaide,Australia,MGB,Mount Gambier,Australia,1116
+BHS,Bathurst (AU),Australia,PKE,Parkes,Australia,1539
+MEL,Melbourne (AU),Australia,MQL,Mildura,Australia,2916
+MGB,Mount Gambier,Australia,ADL,Adelaide,Australia,1116
+MIM,Merimbula,Australia,MYA,Moruya,Australia,1944
+MQL,Mildura,Australia,MEL,Melbourne (AU),Australia,2916
+MYA,Moruya,Australia,MIM,Merimbula,Australia,288
+PKE,Parkes,Australia,BHS,Bathurst (AU),Australia,1539
+ADL,Adelaide,Australia,BHQ,Broken Hill,Australia,1463
+ADL,Adelaide,Australia,KGC,Kingscote,Australia,1260
+BHQ,Broken Hill,Australia,ADL,Adelaide,Australia,1463
+KGC,Kingscote,Australia,ADL,Adelaide,Australia,1260
+OAG,Orange,Australia,SYD,Sydney (AU),Australia,3420
+SYD,Sydney (AU),Australia,OAG,Orange,Australia,3564
+GFF,Griffith,Australia,NRA,Narrandera,Australia,972
+MEL,Melbourne (AU),Australia,PTJ,Portland (AU),Australia,950
+NRA,Narrandera,Australia,GFF,Griffith,Australia,1944
+PTJ,Portland (AU),Australia,MEL,Melbourne (AU),Australia,1026
+GFF,Griffith,Australia,SYD,Sydney (AU),Australia,2556
+MEL,Melbourne (AU),Australia,MGB,Mount Gambier,Australia,589
+MGB,Mount Gambier,Australia,MEL,Melbourne (AU),Australia,589
+SYD,Sydney (AU),Australia,GFF,Griffith,Australia,1584
+ADL,Adelaide,Australia,CPD,Coober Pedy,Australia,418
+ADL,Adelaide,Australia,WYA,Whyalla,Australia,828
+CBR,Canberra,Australia,TGN,Traralgon,Australia,972
+CPD,Coober Pedy,Australia,ADL,Adelaide,Australia,418
+TGN,Traralgon,Australia,CBR,Canberra,Australia,972
+WYA,Whyalla,Australia,ADL,Adelaide,Australia,828

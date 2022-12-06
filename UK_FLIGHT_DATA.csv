@@ -1,0 +1,638 @@
+﻿Source,Source City,Source Country,Target,Target City,Target Country,Weight
+EMA,Nottingham,United Kingdom,IOM,Isle of Man,United Kingdom,513
+IOM,Isle of Man,United Kingdom,EMA,Nottingham,United Kingdom,513
+EDI,Edinburgh,United Kingdom,IOM,Isle of Man,United Kingdom,1026
+IOM,Isle of Man,United Kingdom,EDI,Edinburgh,United Kingdom,1026
+IOM,Isle of Man,United Kingdom,LPL,Liverpool,United Kingdom,3154
+LPL,Liverpool,United Kingdom,IOM,Isle of Man,United Kingdom,3154
+BHD,Belfast,United Kingdom,IOM,Isle of Man,United Kingdom,828
+IOM,Isle of Man,United Kingdom,BHD,Belfast,United Kingdom,828
+BLK,Blackpool,United Kingdom,IOM,Isle of Man,United Kingdom,1116
+IOM,Isle of Man,United Kingdom,BLK,Blackpool,United Kingdom,1116
+CWL,Cardiff,United Kingdom,JER,Jersey,United Kingdom,552
+JER,Jersey,United Kingdom,CWL,Cardiff,United Kingdom,552
+JER,Jersey,United Kingdom,PLH,Plymouth,United Kingdom,368
+PLH,Plymouth,United Kingdom,JER,Jersey,United Kingdom,368
+JER,Jersey,United Kingdom,SWS,Swansea,United Kingdom,184
+SWS,Swansea,United Kingdom,JER,Jersey,United Kingdom,184
+CWL,Cardiff,United Kingdom,SWS,Swansea,United Kingdom,3542
+SWS,Swansea,United Kingdom,CWL,Cardiff,United Kingdom,3542
+CWL,Cardiff,United Kingdom,LCY,London (GB),United Kingdom,3542
+LCY,London (GB),United Kingdom,CWL,Cardiff,United Kingdom,3542
+BHD,Belfast,United Kingdom,CWL,Cardiff,United Kingdom,2300
+CWL,Cardiff,United Kingdom,BHD,Belfast,United Kingdom,2300
+BBP,Bembridge,United Kingdom,BQH,London (GB),United Kingdom,1240
+MSE,Manston,United Kingdom,SEN,Southend,United Kingdom,238
+SEN,Southend,United Kingdom,MSE,Manston,United Kingdom,238
+GLA,Glasgow (GB),United Kingdom,ILY,Islay,United Kingdom,1700
+ILY,Islay,United Kingdom,GLA,Glasgow (GB),United Kingdom,1700
+JER,Jersey,United Kingdom,LGW,London (GB),United Kingdom,1320
+ABZ,Aberdeen (GB),United Kingdom,LGW,London (GB),United Kingdom,13224
+BEB,Benbecula,United Kingdom,GLA,Glasgow (GB),United Kingdom,1782
+ABZ,Aberdeen (GB),United Kingdom,LSI,Shetland Islands,United Kingdom,5610
+LGW,London (GB),United Kingdom,JER,Jersey,United Kingdom,1320
+ABZ,Aberdeen (GB),United Kingdom,KOI,Kirkwall,United Kingdom,3026
+ABZ,Aberdeen (GB),United Kingdom,LSI,Shetland Islands,United Kingdom,442
+GLA,Glasgow (GB),United Kingdom,BEB,Benbecula,United Kingdom,1782
+GLA,Glasgow (GB),United Kingdom,INV,Inverness,United Kingdom,2414
+ABZ,Aberdeen (GB),United Kingdom,LHR,London (GB),United Kingdom,6930
+BHD,Belfast,United Kingdom,MAN,Manchester (GB),United Kingdom,6600
+BHX,Birmingham (GB),United Kingdom,EDI,Edinburgh,United Kingdom,5096
+INV,Inverness,United Kingdom,GLA,Glasgow (GB),United Kingdom,2414
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,5096
+GLA,Glasgow (GB),United Kingdom,TRE,Tiree,United Kingdom,513
+KOI,Kirkwall,United Kingdom,LSI,Shetland Islands,United Kingdom,1122
+KOI,Kirkwall,United Kingdom,WIC,Wick,United Kingdom,918
+LGW,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,13224
+LGW,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,792
+ABZ,Aberdeen (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,196
+BHD,Belfast,United Kingdom,SOU,Southampton,United Kingdom,1550
+ABZ,Aberdeen (GB),United Kingdom,LHR,London (GB),United Kingdom,2052
+BRS,Bristol,United Kingdom,EDI,Edinburgh,United Kingdom,6615
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,2700
+KOI,Kirkwall,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3026
+KOI,Kirkwall,United Kingdom,PPW,Papa Westray,United Kingdom,248
+ABZ,Aberdeen (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1782
+ABZ,Aberdeen (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,3969
+ABZ,Aberdeen (GB),United Kingdom,LHR,London (GB),United Kingdom,15794
+BHX,Birmingham (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3969
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,16241
+BRS,Bristol,United Kingdom,JER,Jersey,United Kingdom,200
+EDI,Edinburgh,United Kingdom,BRS,Bristol,United Kingdom,6615
+EDI,Edinburgh,United Kingdom,MAN,Manchester (GB),United Kingdom,3100
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,11440
+CAL,Campbeltown,United Kingdom,GLA,Glasgow (GB),United Kingdom,855
+GLA,Glasgow (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,4050
+INV,Inverness,United Kingdom,KOI,Kirkwall,United Kingdom,2108
+IOM,Isle of Man,United Kingdom,LGW,London (GB),United Kingdom,8075
+KOI,Kirkwall,United Kingdom,INV,Inverness,United Kingdom,2108
+ABZ,Aberdeen (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,4250
+IOM,Isle of Man,United Kingdom,MAN,Manchester (GB),United Kingdom,6732
+JER,Jersey,United Kingdom,BRS,Bristol,United Kingdom,200
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,6384
+LSI,Shetland Islands,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,442
+LHR,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,2850
+LSI,Shetland Islands,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,5610
+LSI,Shetland Islands,United Kingdom,KOI,Kirkwall,United Kingdom,1088
+EDI,Edinburgh,United Kingdom,SOU,Southampton,United Kingdom,5096
+EDI,Edinburgh,United Kingdom,SYY,Stornoway,United Kingdom,272
+EDI,Edinburgh,United Kingdom,WIC,Wick,United Kingdom,918
+EOI,Eday,United Kingdom,KOI,Kirkwall,United Kingdom,40
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,11440
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,11340
+GLA,Glasgow (GB),United Kingdom,CAL,Campbeltown,United Kingdom,855
+IOM,Isle of Man,United Kingdom,LTN,London (GB),United Kingdom,2945
+BRR,Barra,United Kingdom,GLA,Glasgow (GB),United Kingdom,703
+ABZ,Aberdeen (GB),United Kingdom,LHR,London (GB),United Kingdom,3240
+LGW,London (GB),United Kingdom,IOM,Isle of Man,United Kingdom,8075
+KOI,Kirkwall,United Kingdom,NRL,North Ronaldsay,United Kingdom,400
+LGW,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,22344
+BHD,Belfast,United Kingdom,EDI,Edinburgh,United Kingdom,5016
+BHD,Belfast,United Kingdom,MAN,Manchester (GB),United Kingdom,588
+BRS,Bristol,United Kingdom,PLH,Plymouth,United Kingdom,1350
+LHR,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,6930
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,3192
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,7748
+IOM,Isle of Man,United Kingdom,LPL,Liverpool,United Kingdom,10230
+NCL,Newcastle (GB),United Kingdom,LGW,London (GB),United Kingdom,792
+MAN,Manchester (GB),United Kingdom,BHD,Belfast,United Kingdom,6600
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,6384
+NCL,Newcastle (GB),United Kingdom,LHR,London (GB),United Kingdom,2850
+KOI,Kirkwall,United Kingdom,SOY,Stronsay,United Kingdom,32
+GLA,Glasgow (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,1782
+GLA,Glasgow (GB),United Kingdom,BRR,Barra,United Kingdom,703
+GLA,Glasgow (GB),United Kingdom,LCY,London (GB),United Kingdom,8030
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,3969
+BRS,Bristol,United Kingdom,GLA,Glasgow (GB),United Kingdom,6615
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,16092
+LGW,London (GB),United Kingdom,PLH,Plymouth,United Kingdom,3100
+EDI,Edinburgh,United Kingdom,BHD,Belfast,United Kingdom,5016
+LHR,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,2052
+INV,Inverness,United Kingdom,LGW,London (GB),United Kingdom,8835
+KOI,Kirkwall,United Kingdom,EOI,Eday,United Kingdom,40
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,2700
+PPW,Papa Westray,United Kingdom,KOI,Kirkwall,United Kingdom,288
+TRE,Tiree,United Kingdom,GLA,Glasgow (GB),United Kingdom,513
+WIC,Wick,United Kingdom,KOI,Kirkwall,United Kingdom,918
+LHR,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,15794
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,11340
+LCY,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,8030
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,3969
+LHR,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,8642
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,14006
+LGW,London (GB),United Kingdom,INV,Inverness,United Kingdom,8835
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,3192
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,7599
+MAN,Manchester (GB),United Kingdom,LGW,London (GB),United Kingdom,22344
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,13857
+GLA,Glasgow (GB),United Kingdom,BRS,Bristol,United Kingdom,6615
+GLA,Glasgow (GB),United Kingdom,LGW,London (GB),United Kingdom,19380
+GLA,Glasgow (GB),United Kingdom,SOU,Southampton,United Kingdom,5096
+JER,Jersey,United Kingdom,SOU,Southampton,United Kingdom,7750
+MAN,Manchester (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,196
+MAN,Manchester (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,4050
+MAN,Manchester (GB),United Kingdom,EDI,Edinburgh,United Kingdom,3100
+MAN,Manchester (GB),United Kingdom,IOM,Isle of Man,United Kingdom,6732
+LPL,Liverpool,United Kingdom,IOM,Isle of Man,United Kingdom,10230
+LTN,London (GB),United Kingdom,IOM,Isle of Man,United Kingdom,2945
+NRL,North Ronaldsay,United Kingdom,KOI,Kirkwall,United Kingdom,360
+NRL,North Ronaldsay,United Kingdom,SOY,Stronsay,United Kingdom,64
+PLH,Plymouth,United Kingdom,LGW,London (GB),United Kingdom,1550
+LGW,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,19380
+LHR,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3240
+NCL,Newcastle (GB),United Kingdom,LHR,London (GB),United Kingdom,8642
+SOU,Southampton,United Kingdom,BHD,Belfast,United Kingdom,1550
+NRL,North Ronaldsay,United Kingdom,PPW,Papa Westray,United Kingdom,40
+MAN,Manchester (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,4250
+MAN,Manchester (GB),United Kingdom,BHD,Belfast,United Kingdom,588
+SOU,Southampton,United Kingdom,EDI,Edinburgh,United Kingdom,5096
+SOY,Stronsay,United Kingdom,KOI,Kirkwall,United Kingdom,400
+PLH,Plymouth,United Kingdom,BRS,Bristol,United Kingdom,1350
+SYY,Stornoway,United Kingdom,EDI,Edinburgh,United Kingdom,272
+WIC,Wick,United Kingdom,EDI,Edinburgh,United Kingdom,918
+WRY,Westray,United Kingdom,SOY,Stronsay,United Kingdom,80
+PPW,Papa Westray,United Kingdom,WRY,Westray,United Kingdom,176
+WRY,Westray,United Kingdom,PPW,Papa Westray,United Kingdom,176
+BHD,Belfast,United Kingdom,MAN,Manchester (GB),United Kingdom,1150
+BHD,Belfast,United Kingdom,MAN,Manchester (GB),United Kingdom,4655
+SOU,Southampton,United Kingdom,GLA,Glasgow (GB),United Kingdom,5096
+SOU,Southampton,United Kingdom,JER,Jersey,United Kingdom,7750
+FIE,Fair Isle,United Kingdom,LSI,Shetland Islands,United Kingdom,32
+GLA,Glasgow (GB),United Kingdom,LDY,Derry,United Kingdom,1054
+KOI,Kirkwall,United Kingdom,NDY,Sanday,United Kingdom,360
+KOI,Kirkwall,United Kingdom,WRY,Westray,United Kingdom,256
+LDY,Derry,United Kingdom,GLA,Glasgow (GB),United Kingdom,1054
+BRS,Bristol,United Kingdom,NCL,Newcastle (GB),United Kingdom,3850
+EDI,Edinburgh,United Kingdom,INV,Inverness,United Kingdom,1836
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,6840
+EOI,Eday,United Kingdom,PPW,Papa Westray,United Kingdom,40
+INV,Inverness,United Kingdom,EDI,Edinburgh,United Kingdom,1836
+LSI,Shetland Islands,United Kingdom,FIE,Fair Isle,United Kingdom,32
+MAN,Manchester (GB),United Kingdom,BHD,Belfast,United Kingdom,1150
+MAN,Manchester (GB),United Kingdom,BHD,Belfast,United Kingdom,4655
+JER,Jersey,United Kingdom,MAN,Manchester (GB),United Kingdom,3550
+JER,Jersey,United Kingdom,MAN,Manchester (GB),United Kingdom,264
+JER,Jersey,United Kingdom,MAN,Manchester (GB),United Kingdom,760
+LDY,Derry,United Kingdom,MAN,Manchester (GB),United Kingdom,1054
+NDY,Sanday,United Kingdom,KOI,Kirkwall,United Kingdom,72
+LGW,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,12768
+WRY,Westray,United Kingdom,KOI,Kirkwall,United Kingdom,176
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,6954
+LHR,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,9324
+MAN,Manchester (GB),United Kingdom,JER,Jersey,United Kingdom,3550
+MAN,Manchester (GB),United Kingdom,JER,Jersey,United Kingdom,264
+MAN,Manchester (GB),United Kingdom,JER,Jersey,United Kingdom,760
+MAN,Manchester (GB),United Kingdom,LDY,Derry,United Kingdom,1054
+NCL,Newcastle (GB),United Kingdom,BRS,Bristol,United Kingdom,3850
+NCL,Newcastle (GB),United Kingdom,LGW,London (GB),United Kingdom,12768
+NCL,Newcastle (GB),United Kingdom,LHR,London (GB),United Kingdom,9324
+NQY,Newquay,United Kingdom,PLH,Plymouth,United Kingdom,3100
+PLH,Plymouth,United Kingdom,NQY,Newquay,United Kingdom,4650
+PPW,Papa Westray,United Kingdom,EOI,Eday,United Kingdom,40
+BHX,Birmingham (GB),United Kingdom,IOM,Isle of Man,United Kingdom,3828
+BRS,Bristol,United Kingdom,JER,Jersey,United Kingdom,1519
+BEB,Benbecula,United Kingdom,BRR,Barra,United Kingdom,437
+BHX,Birmingham (GB),United Kingdom,EDI,Edinburgh,United Kingdom,9350
+BRR,Barra,United Kingdom,BEB,Benbecula,United Kingdom,437
+GLA,Glasgow (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,3577
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,9350
+FIE,Fair Isle,United Kingdom,LWK,Shetland Islands,United Kingdom,240
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,13860
+JER,Jersey,United Kingdom,BRS,Bristol,United Kingdom,1519
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,30870
+JER,Jersey,United Kingdom,LGW,London (GB),United Kingdom,21546
+IOM,Isle of Man,United Kingdom,BHX,Birmingham (GB),United Kingdom,3828
+LGW,London (GB),United Kingdom,JER,Jersey,United Kingdom,21546
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,13860
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,30996
+GLA,Glasgow (GB),United Kingdom,SYY,Stornoway,United Kingdom,3564
+INV,Inverness,United Kingdom,SYY,Stornoway,United Kingdom,1836
+JER,Jersey,United Kingdom,MAN,Manchester (GB),United Kingdom,196
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,16884
+MAN,Manchester (GB),United Kingdom,SOU,Southampton,United Kingdom,200
+MAN,Manchester (GB),United Kingdom,SOU,Southampton,United Kingdom,4554
+MAN,Manchester (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,3577
+SOU,Southampton,United Kingdom,MAN,Manchester (GB),United Kingdom,200
+SOU,Southampton,United Kingdom,MAN,Manchester (GB),United Kingdom,4554
+LHR,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,2340
+LWK,Shetland Islands,United Kingdom,FIE,Fair Isle,United Kingdom,240
+MAN,Manchester (GB),United Kingdom,JER,Jersey,United Kingdom,196
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,17010
+NDY,Sanday,United Kingdom,NRL,North Ronaldsay,United Kingdom,104
+NDY,Sanday,United Kingdom,SOY,Stronsay,United Kingdom,256
+NRL,North Ronaldsay,United Kingdom,NDY,Sanday,United Kingdom,40
+NCL,Newcastle (GB),United Kingdom,LHR,London (GB),United Kingdom,2340
+SYY,Stornoway,United Kingdom,GLA,Glasgow (GB),United Kingdom,3564
+SYY,Stornoway,United Kingdom,INV,Inverness,United Kingdom,1836
+SOY,Stronsay,United Kingdom,NDY,Sanday,United Kingdom,32
+BHD,Belfast,United Kingdom,GLA,Glasgow (GB),United Kingdom,5346
+CAL,Campbeltown,United Kingdom,GLA,Glasgow (GB),United Kingdom,34
+EDI,Edinburgh,United Kingdom,LGW,London (GB),United Kingdom,18924
+EDI,Edinburgh,United Kingdom,LSI,Shetland Islands,United Kingdom,1020
+EDI,Edinburgh,United Kingdom,MAN,Manchester (GB),United Kingdom,4704
+GLA,Glasgow (GB),United Kingdom,BHD,Belfast,United Kingdom,5346
+GLA,Glasgow (GB),United Kingdom,CAL,Campbeltown,United Kingdom,34
+GLA,Glasgow (GB),United Kingdom,IOM,Isle of Man,United Kingdom,2046
+IOM,Isle of Man,United Kingdom,GLA,Glasgow (GB),United Kingdom,2046
+LGW,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,18924
+LGW,London (GB),United Kingdom,NQY,Newquay,United Kingdom,3100
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,4500
+LSI,Shetland Islands,United Kingdom,EDI,Edinburgh,United Kingdom,1054
+MAN,Manchester (GB),United Kingdom,EDI,Edinburgh,United Kingdom,4704
+MAN,Manchester (GB),United Kingdom,IOM,Isle of Man,United Kingdom,196
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,4500
+NQY,Newquay,United Kingdom,LGW,London (GB),United Kingdom,4650
+EDI,Edinburgh,United Kingdom,JER,Jersey,United Kingdom,1911
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,2990
+EDI,Edinburgh,United Kingdom,MAN,Manchester (GB),United Kingdom,999
+JER,Jersey,United Kingdom,EDI,Edinburgh,United Kingdom,1911
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,2990
+MAN,Manchester (GB),United Kingdom,EDI,Edinburgh,United Kingdom,999
+EDI,Edinburgh,United Kingdom,LBA,Leeds Bradford,United Kingdom,3577
+GLA,Glasgow (GB),United Kingdom,JER,Jersey,United Kingdom,1421
+GLA,Glasgow (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,1850
+JER,Jersey,United Kingdom,GLA,Glasgow (GB),United Kingdom,1421
+LBA,Leeds Bradford,United Kingdom,EDI,Edinburgh,United Kingdom,3577
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,16905
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,16905
+LBA,Leeds Bradford,United Kingdom,LHR,London (GB),United Kingdom,1323
+LHR,London (GB),United Kingdom,LBA,Leeds Bradford,United Kingdom,1323
+MAN,Manchester (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1850
+GLA,Glasgow (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,3577
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,1060
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,11408
+MAN,Manchester (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,3577
+BHD,Belfast,United Kingdom,LHR,London (GB),United Kingdom,35512
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,11408
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,1060
+JER,Jersey,United Kingdom,LBA,Leeds Bradford,United Kingdom,3087
+LBA,Leeds Bradford,United Kingdom,JER,Jersey,United Kingdom,3087
+LHR,London (GB),United Kingdom,BHD,Belfast,United Kingdom,35512
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,18963
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,1696
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,1696
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,18963
+BHD,Belfast,United Kingdom,LHR,London (GB),United Kingdom,6321
+EDI,Edinburgh,United Kingdom,MAN,Manchester (GB),United Kingdom,4900
+EDI,Edinburgh,United Kingdom,SYY,Stornoway,United Kingdom,1519
+LHR,London (GB),United Kingdom,BHD,Belfast,United Kingdom,6321
+MAN,Manchester (GB),United Kingdom,EDI,Edinburgh,United Kingdom,4900
+SYY,Stornoway,United Kingdom,EDI,Edinburgh,United Kingdom,1519
+LBA,Leeds Bradford,United Kingdom,LHR,London (GB),United Kingdom,11872
+LHR,London (GB),United Kingdom,LBA,Leeds Bradford,United Kingdom,11872
+BHD,Belfast,United Kingdom,LHR,London (GB),United Kingdom,424
+EDI,Edinburgh,United Kingdom,LHR,London (GB),United Kingdom,16376
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,27342
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,4784
+JER,Jersey,United Kingdom,MME,Teesside,United Kingdom,588
+LHR,London (GB),United Kingdom,BHD,Belfast,United Kingdom,424
+LHR,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,16376
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,27342
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,4784
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,296
+LHR,London (GB),United Kingdom,MME,Teesside,United Kingdom,9010
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,296
+MME,Teesside,United Kingdom,JER,Jersey,United Kingdom,588
+MME,Teesside,United Kingdom,LHR,London (GB),United Kingdom,9010
+ABZ,Aberdeen (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,3577
+GLA,Glasgow (GB),United Kingdom,LBA,Leeds Bradford,United Kingdom,3577
+GLA,Glasgow (GB),United Kingdom,LHR,London (GB),United Kingdom,2760
+LBA,Leeds Bradford,United Kingdom,GLA,Glasgow (GB),United Kingdom,3577
+LHR,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,2760
+MAN,Manchester (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3577
+ABZ,Aberdeen (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,148
+ABZ,Aberdeen (GB),United Kingdom,NWI,Norwich,United Kingdom,3700
+MAN,Manchester (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,148
+NWI,Norwich,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3700
+LHR,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,2875
+MAN,Manchester (GB),United Kingdom,LHR,London (GB),United Kingdom,2875
+BHX,Birmingham (GB),United Kingdom,EDI,Edinburgh,United Kingdom,7622
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,6734
+EXT,Exeter,United Kingdom,JER,Jersey,United Kingdom,222
+EXT,Exeter,United Kingdom,JER,Jersey,United Kingdom,85
+JER,Jersey,United Kingdom,EXT,Exeter,United Kingdom,222
+JER,Jersey,United Kingdom,EXT,Exeter,United Kingdom,85
+LGW,London (GB),United Kingdom,BHD,Belfast,United Kingdom,3910
+BHD,Belfast,United Kingdom,BHX,Birmingham (GB),United Kingdom,222
+BHD,Belfast,United Kingdom,BHX,Birmingham (GB),United Kingdom,15400
+BHX,Birmingham (GB),United Kingdom,BHD,Belfast,United Kingdom,3626
+BHX,Birmingham (GB),United Kingdom,BHD,Belfast,United Kingdom,12700
+BHX,Birmingham (GB),United Kingdom,EDI,Edinburgh,United Kingdom,11050
+BHX,Birmingham (GB),United Kingdom,GCI,Guernsey,United Kingdom,85
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,8075
+BHD,Belfast,United Kingdom,BLK,Blackpool,United Kingdom,999
+GCI,Guernsey,United Kingdom,BHX,Birmingham (GB),United Kingdom,85
+BHD,Belfast,United Kingdom,BHX,Birmingham (GB),United Kingdom,296
+BHD,Belfast,United Kingdom,LBA,Leeds Bradford,United Kingdom,2300
+BHX,Birmingham (GB),United Kingdom,EDI,Edinburgh,United Kingdom,1700
+BLK,Blackpool,United Kingdom,BHD,Belfast,United Kingdom,999
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,1800
+GCI,Guernsey,United Kingdom,LGW,London (GB),United Kingdom,12400
+JER,Jersey,United Kingdom,SOU,Southampton,United Kingdom,2975
+LGW,London (GB),United Kingdom,GCI,Guernsey,United Kingdom,12400
+BHX,Birmingham (GB),United Kingdom,BHD,Belfast,United Kingdom,296
+BHX,Birmingham (GB),United Kingdom,GCI,Guernsey,United Kingdom,1150
+BHX,Birmingham (GB),United Kingdom,IOM,Isle of Man,United Kingdom,765
+IOM,Isle of Man,United Kingdom,BHX,Birmingham (GB),United Kingdom,765
+SOU,Southampton,United Kingdom,JER,Jersey,United Kingdom,5950
+JER,Jersey,United Kingdom,LTN,London (GB),United Kingdom,1200
+LBA,Leeds Bradford,United Kingdom,BHD,Belfast,United Kingdom,2300
+LTN,London (GB),United Kingdom,JER,Jersey,United Kingdom,800
+BHD,Belfast,United Kingdom,IOM,Isle of Man,United Kingdom,1850
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1350
+BHX,Birmingham (GB),United Kingdom,JER,Jersey,United Kingdom,765
+BHD,Belfast,United Kingdom,LBA,Leeds Bradford,United Kingdom,1147
+GCI,Guernsey,United Kingdom,SOU,Southampton,United Kingdom,11070
+LBA,Leeds Bradford,United Kingdom,BHD,Belfast,United Kingdom,296
+SOU,Southampton,United Kingdom,GCI,Guernsey,United Kingdom,9180
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,851
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,1550
+IOM,Isle of Man,United Kingdom,BHD,Belfast,United Kingdom,3552
+JER,Jersey,United Kingdom,BHX,Birmingham (GB),United Kingdom,2720
+BHX,Birmingham (GB),United Kingdom,GCI,Guernsey,United Kingdom,5000
+BRS,Bristol,United Kingdom,IOM,Isle of Man,United Kingdom,148
+EDI,Edinburgh,United Kingdom,BHX,Birmingham (GB),United Kingdom,2300
+EXT,Exeter,United Kingdom,JER,Jersey,United Kingdom,148
+GCI,Guernsey,United Kingdom,BHX,Birmingham (GB),United Kingdom,3100
+BHD,Belfast,United Kingdom,JER,Jersey,United Kingdom,592
+BHD,Belfast,United Kingdom,SOU,Southampton,United Kingdom,1998
+EXT,Exeter,United Kingdom,GCI,Guernsey,United Kingdom,851
+IOM,Isle of Man,United Kingdom,LCY,London (GB),United Kingdom,216
+JER,Jersey,United Kingdom,BHD,Belfast,United Kingdom,592
+JER,Jersey,United Kingdom,LTN,London (GB),United Kingdom,851
+JER,Jersey,United Kingdom,LTN,London (GB),United Kingdom,340
+BHX,Birmingham (GB),United Kingdom,GCI,Guernsey,United Kingdom,518
+GLA,Glasgow (GB),United Kingdom,JER,Jersey,United Kingdom,340
+IOM,Isle of Man,United Kingdom,BRS,Bristol,United Kingdom,148
+JER,Jersey,United Kingdom,EXT,Exeter,United Kingdom,148
+JER,Jersey,United Kingdom,GLA,Glasgow (GB),United Kingdom,340
+JER,Jersey,United Kingdom,LGW,London (GB),United Kingdom,1955
+LCY,London (GB),United Kingdom,IOM,Isle of Man,United Kingdom,216
+LTN,London (GB),United Kingdom,JER,Jersey,United Kingdom,999
+LTN,London (GB),United Kingdom,JER,Jersey,United Kingdom,340
+SOU,Southampton,United Kingdom,BHD,Belfast,United Kingdom,1998
+GCI,Guernsey,United Kingdom,BHX,Birmingham (GB),United Kingdom,518
+GCI,Guernsey,United Kingdom,SOU,Southampton,United Kingdom,2720
+SOU,Southampton,United Kingdom,GCI,Guernsey,United Kingdom,6630
+BHD,Belfast,United Kingdom,NCL,Newcastle (GB),United Kingdom,1147
+JER,Jersey,United Kingdom,NCL,Newcastle (GB),United Kingdom,216
+NCL,Newcastle (GB),United Kingdom,JER,Jersey,United Kingdom,216
+BHD,Belfast,United Kingdom,IOM,Isle of Man,United Kingdom,2916
+BHD,Belfast,United Kingdom,NCL,Newcastle (GB),United Kingdom,5562
+BRS,Bristol,United Kingdom,IOM,Isle of Man,United Kingdom,296
+EXT,Exeter,United Kingdom,JER,Jersey,United Kingdom,2106
+GCI,Guernsey,United Kingdom,JER,Jersey,United Kingdom,851
+IOM,Isle of Man,United Kingdom,BHD,Belfast,United Kingdom,2916
+IOM,Isle of Man,United Kingdom,BRS,Bristol,United Kingdom,148
+JER,Jersey,United Kingdom,EXT,Exeter,United Kingdom,3564
+JER,Jersey,United Kingdom,LGW,London (GB),United Kingdom,17400
+LGW,London (GB),United Kingdom,JER,Jersey,United Kingdom,12400
+NCL,Newcastle (GB),United Kingdom,BHD,Belfast,United Kingdom,296
+NCL,Newcastle (GB),United Kingdom,BHD,Belfast,United Kingdom,5562
+BRS,Bristol,United Kingdom,IOM,Isle of Man,United Kingdom,1134
+GCI,Guernsey,United Kingdom,JER,Jersey,United Kingdom,4158
+GCI,Guernsey,United Kingdom,SOU,Southampton,United Kingdom,1425
+IOM,Isle of Man,United Kingdom,BRS,Bristol,United Kingdom,1350
+JER,Jersey,United Kingdom,GCI,Guernsey,United Kingdom,2484
+JER,Jersey,United Kingdom,LCY,London (GB),United Kingdom,3848
+LCY,London (GB),United Kingdom,JER,Jersey,United Kingdom,2997
+SOU,Southampton,United Kingdom,JER,Jersey,United Kingdom,2300
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,2380
+EDI,Edinburgh,United Kingdom,JER,Jersey,United Kingdom,340
+GCI,Guernsey,United Kingdom,JER,Jersey,United Kingdom,2300
+GCI,Guernsey,United Kingdom,SOU,Southampton,United Kingdom,2516
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,2720
+JER,Jersey,United Kingdom,EDI,Edinburgh,United Kingdom,340
+JER,Jersey,United Kingdom,GCI,Guernsey,United Kingdom,5400
+JER,Jersey,United Kingdom,SOU,Southampton,United Kingdom,1725
+SOU,Southampton,United Kingdom,GCI,Guernsey,United Kingdom,2294
+BHD,Belfast,United Kingdom,LBA,Leeds Bradford,United Kingdom,1458
+EXT,Exeter,United Kingdom,GCI,Guernsey,United Kingdom,1890
+GCI,Guernsey,United Kingdom,EXT,Exeter,United Kingdom,1674
+LBA,Leeds Bradford,United Kingdom,BHD,Belfast,United Kingdom,324
+BHD,Belfast,United Kingdom,BRS,Bristol,United Kingdom,2700
+BHX,Birmingham (GB),United Kingdom,IOM,Isle of Man,United Kingdom,1332
+BRS,Bristol,United Kingdom,BHD,Belfast,United Kingdom,2916
+IOM,Isle of Man,United Kingdom,BHX,Birmingham (GB),United Kingdom,1332
+IOM,Isle of Man,United Kingdom,LCY,London (GB),United Kingdom,3700
+LCY,London (GB),United Kingdom,IOM,Isle of Man,United Kingdom,4551
+BHD,Belfast,United Kingdom,BLK,Blackpool,United Kingdom,432
+BHD,Belfast,United Kingdom,JER,Jersey,United Kingdom,800
+BHD,Belfast,United Kingdom,LGW,London (GB),United Kingdom,296
+BHX,Birmingham (GB),United Kingdom,BHD,Belfast,United Kingdom,200
+BLK,Blackpool,United Kingdom,BHD,Belfast,United Kingdom,432
+GCI,Guernsey,United Kingdom,LGW,London (GB),United Kingdom,216
+JER,Jersey,United Kingdom,BHD,Belfast,United Kingdom,800
+LGW,London (GB),United Kingdom,BHD,Belfast,United Kingdom,296
+BHX,Birmingham (GB),United Kingdom,JER,Jersey,United Kingdom,148
+BHX,Birmingham (GB),United Kingdom,JER,Jersey,United Kingdom,1850
+JER,Jersey,United Kingdom,BHX,Birmingham (GB),United Kingdom,296
+JER,Jersey,United Kingdom,BHX,Birmingham (GB),United Kingdom,5254
+JER,Jersey,United Kingdom,LGW,London (GB),United Kingdom,216
+LGW,London (GB),United Kingdom,JER,Jersey,United Kingdom,216
+SOU,Southampton,United Kingdom,GCI,Guernsey,United Kingdom,2300
+BHD,Belfast,United Kingdom,BLK,Blackpool,United Kingdom,296
+BHD,Belfast,United Kingdom,EXT,Exeter,United Kingdom,148
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,14134
+BHX,Birmingham (GB),United Kingdom,IOM,Isle of Man,United Kingdom,400
+BHX,Birmingham (GB),United Kingdom,JER,Jersey,United Kingdom,1350
+BLK,Blackpool,United Kingdom,BHD,Belfast,United Kingdom,296
+EXT,Exeter,United Kingdom,BHD,Belfast,United Kingdom,148
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,8732
+IOM,Isle of Man,United Kingdom,BHX,Birmingham (GB),United Kingdom,400
+JER,Jersey,United Kingdom,BHX,Birmingham (GB),United Kingdom,200
+BHD,Belfast,United Kingdom,BHX,Birmingham (GB),United Kingdom,4165
+BHD,Belfast,United Kingdom,BRS,Bristol,United Kingdom,962
+BHD,Belfast,United Kingdom,BRS,Bristol,United Kingdom,296
+BHD,Belfast,United Kingdom,LBA,Leeds Bradford,United Kingdom,3922
+BHD,Belfast,United Kingdom,LGW,London (GB),United Kingdom,10800
+BHD,Belfast,United Kingdom,SOU,Southampton,United Kingdom,1554
+BHX,Birmingham (GB),United Kingdom,BHD,Belfast,United Kingdom,2295
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1600
+BHX,Birmingham (GB),United Kingdom,JER,Jersey,United Kingdom,4000
+BRS,Bristol,United Kingdom,BHD,Belfast,United Kingdom,814
+BRS,Bristol,United Kingdom,BHD,Belfast,United Kingdom,296
+GLA,Glasgow (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,3900
+IOM,Isle of Man,United Kingdom,NCL,Newcastle (GB),United Kingdom,1458
+JER,Jersey,United Kingdom,BHX,Birmingham (GB),United Kingdom,2800
+JER,Jersey,United Kingdom,NCL,Newcastle (GB),United Kingdom,400
+JER,Jersey,United Kingdom,SOU,Southampton,United Kingdom,4588
+LBA,Leeds Bradford,United Kingdom,BHD,Belfast,United Kingdom,5476
+LGW,London (GB),United Kingdom,BHD,Belfast,United Kingdom,13500
+NCL,Newcastle (GB),United Kingdom,IOM,Isle of Man,United Kingdom,1458
+NCL,Newcastle (GB),United Kingdom,JER,Jersey,United Kingdom,400
+SOU,Southampton,United Kingdom,BHD,Belfast,United Kingdom,1554
+SOU,Southampton,United Kingdom,JER,Jersey,United Kingdom,2294
+PZE,Penzance,United Kingdom,TSO,Isles of Scilly,United Kingdom,3822
+TSO,Isles of Scilly,United Kingdom,PZE,Penzance,United Kingdom,3822
+ISC,Isles of Scilly,United Kingdom,PZE,Penzance,United Kingdom,7566
+PZE,Penzance,United Kingdom,ISC,Isles of Scilly,United Kingdom,7566
+GCI,Guernsey,United Kingdom,SOU,Southampton,United Kingdom,1242
+EDI,Edinburgh,United Kingdom,LCY,London (GB),United Kingdom,6913
+LCY,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,6913
+DND,Dundee,United Kingdom,LCY,London (GB),United Kingdom,3286
+LCY,London (GB),United Kingdom,DND,Dundee,United Kingdom,3286
+BOH,Bournemouth,United Kingdom,PIK,Glasgow (GB),United Kingdom,5859
+PIK,Glasgow (GB),United Kingdom,BOH,Bournemouth,United Kingdom,5859
+LDY,Derry,United Kingdom,STN,London (GB),United Kingdom,340
+STN,London (GB),United Kingdom,LDY,Derry,United Kingdom,340
+NQY,Newquay,United Kingdom,STN,London (GB),United Kingdom,4216
+NQY,Newquay,United Kingdom,STN,London (GB),United Kingdom,5859
+STN,London (GB),United Kingdom,NQY,Newquay,United Kingdom,4216
+STN,London (GB),United Kingdom,NQY,Newquay,United Kingdom,5859
+BLK,Blackpool,United Kingdom,STN,London (GB),United Kingdom,5270
+STN,London (GB),United Kingdom,BLK,Blackpool,United Kingdom,5270
+LDY,Derry,United Kingdom,STN,London (GB),United Kingdom,6588
+STN,London (GB),United Kingdom,LDY,Derry,United Kingdom,6588
+PIK,Glasgow (GB),United Kingdom,STN,London (GB),United Kingdom,35380
+STN,London (GB),United Kingdom,PIK,Glasgow (GB),United Kingdom,35380
+ACI,Alderney,United Kingdom,JER,Jersey,United Kingdom,960
+JER,Jersey,United Kingdom,ACI,Alderney,United Kingdom,960
+GCI,Guernsey,United Kingdom,STN,London (GB),United Kingdom,85
+STN,London (GB),United Kingdom,GCI,Guernsey,United Kingdom,85
+ACI,Alderney,United Kingdom,GCI,Guernsey,United Kingdom,2400
+GCI,Guernsey,United Kingdom,ACI,Alderney,United Kingdom,2400
+EMA,Nottingham,United Kingdom,GCI,Guernsey,United Kingdom,1155
+GCI,Guernsey,United Kingdom,EMA,Nottingham,United Kingdom,1155
+GCI,Guernsey,United Kingdom,MAN,Manchester (GB),United Kingdom,255
+MAN,Manchester (GB),United Kingdom,GCI,Guernsey,United Kingdom,255
+GCI,Guernsey,United Kingdom,STN,London (GB),United Kingdom,2937
+STN,London (GB),United Kingdom,GCI,Guernsey,United Kingdom,2937
+GCI,Guernsey,United Kingdom,JER,Jersey,United Kingdom,736
+GCI,Guernsey,United Kingdom,MAN,Manchester (GB),United Kingdom,3432
+JER,Jersey,United Kingdom,GCI,Guernsey,United Kingdom,800
+MAN,Manchester (GB),United Kingdom,GCI,Guernsey,United Kingdom,3432
+ACI,Alderney,United Kingdom,SOU,Southampton,United Kingdom,1920
+SOU,Southampton,United Kingdom,ACI,Alderney,United Kingdom,1920
+GCI,Guernsey,United Kingdom,LGW,London (GB),United Kingdom,6696
+LGW,London (GB),United Kingdom,GCI,Guernsey,United Kingdom,6696
+GCI,Guernsey,United Kingdom,JER,Jersey,United Kingdom,6264
+JER,Jersey,United Kingdom,GCI,Guernsey,United Kingdom,6120
+BRS,Bristol,United Kingdom,GCI,Guernsey,United Kingdom,1056
+GCI,Guernsey,United Kingdom,BRS,Bristol,United Kingdom,1056
+ABZ,Aberdeen (GB),United Kingdom,STN,London (GB),United Kingdom,840
+STN,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,420
+IOM,Isle of Man,United Kingdom,PIK,Glasgow (GB),United Kingdom,1550
+PIK,Glasgow (GB),United Kingdom,IOM,Isle of Man,United Kingdom,1550
+ABZ,Aberdeen (GB),United Kingdom,WIC,Wick,United Kingdom,874
+WIC,Wick,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,874
+ABZ,Aberdeen (GB),United Kingdom,LBA,Leeds Bradford,United Kingdom,950
+LBA,Leeds Bradford,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,950
+EDI,Edinburgh,United Kingdom,NWI,Norwich,United Kingdom,2117
+NWI,Norwich,United Kingdom,EDI,Edinburgh,United Kingdom,2117
+BHX,Birmingham (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,2784
+MAN,Manchester (GB),United Kingdom,NWI,Norwich,United Kingdom,1311
+NCL,Newcastle (GB),United Kingdom,BHX,Birmingham (GB),United Kingdom,2784
+NCL,Newcastle (GB),United Kingdom,SOU,Southampton,United Kingdom,1850
+NWI,Norwich,United Kingdom,MAN,Manchester (GB),United Kingdom,1311
+SOU,Southampton,United Kingdom,NCL,Newcastle (GB),United Kingdom,1850
+IOM,Isle of Man,United Kingdom,LBA,Leeds Bradford,United Kingdom,783
+LBA,Leeds Bradford,United Kingdom,IOM,Isle of Man,United Kingdom,783
+ABZ,Aberdeen (GB),United Kingdom,HUY,Humberside,United Kingdom,2109
+ABZ,Aberdeen (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,1850
+HUY,Humberside,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,2109
+NCL,Newcastle (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,1850
+ABZ,Aberdeen (GB),United Kingdom,BFS,Belfast,United Kingdom,437
+ABZ,Aberdeen (GB),United Kingdom,EMA,Nottingham,United Kingdom,1387
+BFS,Belfast,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,437
+EMA,Nottingham,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,1387
+MAN,Manchester (GB),United Kingdom,STN,London (GB),United Kingdom,2001
+STN,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,2001
+ABZ,Aberdeen (GB),United Kingdom,NWI,Norwich,United Kingdom,3552
+NWI,Norwich,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,3552
+IOM,Isle of Man,United Kingdom,LBA,Leeds Bradford,United Kingdom,437
+LBA,Leeds Bradford,United Kingdom,IOM,Isle of Man,United Kingdom,437
+NCL,Newcastle (GB),United Kingdom,SOU,Southampton,United Kingdom,667
+SOU,Southampton,United Kingdom,NCL,Newcastle (GB),United Kingdom,667
+LBA,Leeds Bradford,United Kingdom,SOU,Southampton,United Kingdom,2117
+SOU,Southampton,United Kingdom,LBA,Leeds Bradford,United Kingdom,2117
+ABZ,Aberdeen (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,1450
+NCL,Newcastle (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,1450
+ABZ,Aberdeen (GB),United Kingdom,MME,Teesside,United Kingdom,1748
+MME,Teesside,United Kingdom,ABZ,Aberdeen (GB),United Kingdom,1748
+INV,Inverness,United Kingdom,MAN,Manchester (GB),United Kingdom,1311
+MAN,Manchester (GB),United Kingdom,INV,Inverness,United Kingdom,1311
+BHX,Birmingham (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1680
+LGW,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,210
+MAN,Manchester (GB),United Kingdom,LGW,London (GB),United Kingdom,1890
+GLA,Glasgow (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,363
+LGW,London (GB),United Kingdom,BFS,Belfast,United Kingdom,2472
+MAN,Manchester (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,1089
+LGW,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,2472
+MAN,Manchester (GB),United Kingdom,LGW,London (GB),United Kingdom,1854
+BFS,Belfast,United Kingdom,NCL,Newcastle (GB),United Kingdom,1260
+CWL,Cardiff,United Kingdom,GLA,Glasgow (GB),United Kingdom,1089
+CWL,Cardiff,United Kingdom,GLA,Glasgow (GB),United Kingdom,420
+EXT,Exeter,United Kingdom,BHX,Birmingham (GB),United Kingdom,1050
+BFS,Belfast,United Kingdom,NCL,Newcastle (GB),United Kingdom,618
+GLA,Glasgow (GB),United Kingdom,STN,London (GB),United Kingdom,17446
+BFS,Belfast,United Kingdom,BRS,Bristol,United Kingdom,10370
+BRS,Bristol,United Kingdom,BFS,Belfast,United Kingdom,10370
+GLA,Glasgow (GB),United Kingdom,LTN,London (GB),United Kingdom,23058
+LTN,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,23058
+STN,London (GB),United Kingdom,GLA,Glasgow (GB),United Kingdom,17446
+BFS,Belfast,United Kingdom,NCL,Newcastle (GB),United Kingdom,7564
+INV,Inverness,United Kingdom,LTN,London (GB),United Kingdom,4758
+LTN,London (GB),United Kingdom,INV,Inverness,United Kingdom,4758
+NCL,Newcastle (GB),United Kingdom,BFS,Belfast,United Kingdom,7564
+BRS,Bristol,United Kingdom,EDI,Edinburgh,United Kingdom,9882
+EDI,Edinburgh,United Kingdom,BRS,Bristol,United Kingdom,9882
+EDI,Edinburgh,United Kingdom,STN,London (GB),United Kingdom,23546
+ABZ,Aberdeen (GB),United Kingdom,LTN,London (GB),United Kingdom,6588
+NCL,Newcastle (GB),United Kingdom,STN,London (GB),United Kingdom,14152
+STN,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,23546
+STN,London (GB),United Kingdom,NCL,Newcastle (GB),United Kingdom,14152
+EDI,Edinburgh,United Kingdom,LGW,London (GB),United Kingdom,16958
+EDI,Edinburgh,United Kingdom,LTN,London (GB),United Kingdom,23546
+BFS,Belfast,United Kingdom,LGW,London (GB),United Kingdom,10370
+LGW,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,16958
+LTN,London (GB),United Kingdom,ABZ,Aberdeen (GB),United Kingdom,6588
+LTN,London (GB),United Kingdom,EDI,Edinburgh,United Kingdom,23546
+BFS,Belfast,United Kingdom,STN,London (GB),United Kingdom,17934
+LGW,London (GB),United Kingdom,BFS,Belfast,United Kingdom,10370
+STN,London (GB),United Kingdom,BFS,Belfast,United Kingdom,17934
+EDI,Edinburgh,United Kingdom,EMA,Nottingham,United Kingdom,6588
+EMA,Nottingham,United Kingdom,EDI,Edinburgh,United Kingdom,6588
+BFS,Belfast,United Kingdom,LTN,London (GB),United Kingdom,16958
+BRS,Bristol,United Kingdom,GLA,Glasgow (GB),United Kingdom,9882
+GLA,Glasgow (GB),United Kingdom,BRS,Bristol,United Kingdom,9882
+LTN,London (GB),United Kingdom,BFS,Belfast,United Kingdom,16958
+BFS,Belfast,United Kingdom,EDI,Edinburgh,United Kingdom,11346
+EDI,Edinburgh,United Kingdom,BFS,Belfast,United Kingdom,11346
+EMA,Nottingham,United Kingdom,GLA,Glasgow (GB),United Kingdom,6588
+INV,Inverness,United Kingdom,LGW,London (GB),United Kingdom,3782
+LGW,London (GB),United Kingdom,INV,Inverness,United Kingdom,3782
+GLA,Glasgow (GB),United Kingdom,EMA,Nottingham,United Kingdom,6588
+BFS,Belfast,United Kingdom,LPL,Liverpool,United Kingdom,25010
+LPL,Liverpool,United Kingdom,BFS,Belfast,United Kingdom,25010
+BFS,Belfast,United Kingdom,GLA,Glasgow (GB),United Kingdom,14640
+GLA,Glasgow (GB),United Kingdom,BFS,Belfast,United Kingdom,14640
+LCY,London (GB),United Kingdom,MAN,Manchester (GB),United Kingdom,8050
+MAN,Manchester (GB),United Kingdom,LCY,London (GB),United Kingdom,8050
+BFS,Belfast,United Kingdom,BHX,Birmingham (GB),United Kingdom,9720
+BHX,Birmingham (GB),United Kingdom,BFS,Belfast,United Kingdom,9720
+CWL,Cardiff,United Kingdom,JER,Jersey,United Kingdom,4061
+JER,Jersey,United Kingdom,CWL,Cardiff,United Kingdom,4061
+CWL,Cardiff,United Kingdom,PIK,Glasgow (GB),United Kingdom,1048
+PIK,Glasgow (GB),United Kingdom,CWL,Cardiff,United Kingdom,1048
+BFS,Belfast,United Kingdom,EMA,Nottingham,United Kingdom,3404
+EDI,Edinburgh,United Kingdom,EMA,Nottingham,United Kingdom,5476
+EMA,Nottingham,United Kingdom,BFS,Belfast,United Kingdom,3404
+EMA,Nottingham,United Kingdom,EDI,Edinburgh,United Kingdom,5476
+BFS,Belfast,United Kingdom,CWL,Cardiff,United Kingdom,4061
+CWL,Cardiff,United Kingdom,BFS,Belfast,United Kingdom,4061
+EMA,Nottingham,United Kingdom,GLA,Glasgow (GB),United Kingdom,8584
+GLA,Glasgow (GB),United Kingdom,EMA,Nottingham,United Kingdom,8584
+CWL,Cardiff,United Kingdom,EDI,Edinburgh,United Kingdom,7598
+EDI,Edinburgh,United Kingdom,CWL,Cardiff,United Kingdom,7598
+CWL,Cardiff,United Kingdom,GLA,Glasgow (GB),United Kingdom,6026
+GLA,Glasgow (GB),United Kingdom,CWL,Cardiff,United Kingdom,6026
+EDI,Edinburgh,United Kingdom,EMA,Nottingham,United Kingdom,5764
+EMA,Nottingham,United Kingdom,EDI,Edinburgh,United Kingdom,5764
+BFS,Belfast,United Kingdom,EMA,Nottingham,United Kingdom,5895
+BFS,Belfast,United Kingdom,MAN,Manchester (GB),United Kingdom,11988
+EMA,Nottingham,United Kingdom,BFS,Belfast,United Kingdom,5895
+EMA,Nottingham,United Kingdom,JER,Jersey,United Kingdom,4061
+JER,Jersey,United Kingdom,EMA,Nottingham,United Kingdom,4061
+MAN,Manchester (GB),United Kingdom,BFS,Belfast,United Kingdom,11988
+BFS,Belfast,United Kingdom,LTN,London (GB),United Kingdom,378
